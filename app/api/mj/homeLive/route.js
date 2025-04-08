@@ -189,10 +189,10 @@ export async function GET(req) {
   };
 
   const data_hi = {
-    banner: {
-      image:
-        "https://spidercmsstage.amarujala.com/assets/images/myjyotish.com/2025/04/07/frame-1686551514_67f3742cb45d6.jpg",
-    },
+    // banner: {
+    //   image:
+    //     "https://spidercmsstage.amarujala.com/assets/images/myjyotish.com/2025/04/07/frame-1686551514_67f3742cb45d6.jpg",
+    // },
     tools: [
       {
         name: "पंचांग",
