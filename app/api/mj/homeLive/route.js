@@ -197,201 +197,201 @@ export async function GET(req) {
       {
         name: "पंचांग",
         slug: null,
-        image: null,
+        image: "Horoscope",
       },
       {
         name: "राशिफल",
         slug: null,
-        image: null,
+        image: "Horoscope",
       },
       {
         name: "कुंडली",
         slug: null,
-        image: null,
+        image: "Horoscope",
       },
       {
         name: "मुफ्त बातचीत",
         slug: null,
-        image: null,
+        image: "Horoscope",
       },
     ],
-    astrologers: {
-      vedic: {
-        section_title: "वैदिक ज्योतिष",
-        list: [
-          {
-            _id: "67e670bd3748c72ddf53be90",
-            name: "test",
-            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-28T15:22:36+05:30",
-            profile_id: "67330a2b546e970f88638189",
-          },
-          {
-            _id: "5c21073042c792295c74a7c4",
-            name: "माई ज्योतिष विशेषज्ञ",
-            profile_pic:
-              "https://userimg.amarujala.com/2019/3/1/5c78e5746873a.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "OFFLINE",
-            updated_at: "2025-03-25T12:50:13+05:30",
-            profile_id: "5c19f385a7bc5d75373a83c7",
-          },
-          {
-            _id: "673c35f3eba3dc57f816f57d",
-            name: "vaibhav gupta",
-            profile_pic:
-              "https://userimg.amarujala.com/2024/11/19/673c35d3835ee.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-10T13:45:33+05:30",
-            profile_id: "673c35d5f5ba8d5929264d17",
-          },
-        ],
-      },
-      numerology: {
-        section_title: "अंक ज्योतिष",
-        list: [
-          {
-            _id: "67e670bd3748c72ddf53be90",
-            name: "test",
-            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-28T15:22:36+05:30",
-            profile_id: "67330a2b546e970f88638189",
-          },
-          {
-            _id: "673c35f3eba3dc57f816f57d",
-            name: "vaibhav gupta",
-            profile_pic:
-              "https://userimg.amarujala.com/2024/11/19/673c35d3835ee.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-10T13:45:33+05:30",
-            profile_id: "673c35d5f5ba8d5929264d17",
-          },
-        ],
-      },
-      tarot: {
-        section_title: "tarot",
-        list: [
-          {
-            _id: "67e670bd3748c72ddf53be90",
-            name: "test",
-            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-28T15:22:36+05:30",
-            profile_id: "67330a2b546e970f88638189",
-          },
-          {
-            _id: "67e670bd3748c72ddf53be90",
-            name: "test",
-            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-28T15:22:36+05:30",
-            profile_id: "67330a2b546e970f88638189",
-          },
-          {
-            _id: "67e670bd3748c72ddf53be90",
-            name: "test",
-            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-28T15:22:36+05:30",
-            profile_id: "67330a2b546e970f88638189",
-          },
-          {
-            _id: "67e670bd3748c72ddf53be90",
-            name: "test",
-            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-28T15:22:36+05:30",
-            profile_id: "67330a2b546e970f88638189",
-          },
-          {
-            _id: "67e670bd3748c72ddf53be90",
-            name: "test",
-            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-28T15:22:36+05:30",
-            profile_id: "67330a2b546e970f88638189",
-          },
-          {
-            _id: "67e670bd3748c72ddf53be90",
-            name: "test",
-            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-28T15:22:36+05:30",
-            profile_id: "67330a2b546e970f88638189",
-          },
-          {
-            _id: "673c35f3eba3dc57f816f57d",
-            name: "vaibhav gupta",
-            profile_pic:
-              "https://userimg.amarujala.com/2024/11/19/673c35d3835ee.jpg",
-            social: {
-              youtube: "",
-              twitter: "",
-              facebook: "",
-            },
-            presence: "ONLINE",
-            updated_at: "2025-03-10T13:45:33+05:30",
-            profile_id: "673c35d5f5ba8d5929264d17",
-          },
-        ],
-      },
-    },
+    // astrologers: {
+    //   vedic: {
+    //     section_title: "वैदिक ज्योतिष",
+    //     list: [
+    //       {
+    //         _id: "67e670bd3748c72ddf53be90",
+    //         name: "test",
+    //         profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-28T15:22:36+05:30",
+    //         profile_id: "67330a2b546e970f88638189",
+    //       },
+    //       {
+    //         _id: "5c21073042c792295c74a7c4",
+    //         name: "माई ज्योतिष विशेषज्ञ",
+    //         profile_pic:
+    //           "https://userimg.amarujala.com/2019/3/1/5c78e5746873a.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "OFFLINE",
+    //         updated_at: "2025-03-25T12:50:13+05:30",
+    //         profile_id: "5c19f385a7bc5d75373a83c7",
+    //       },
+    //       {
+    //         _id: "673c35f3eba3dc57f816f57d",
+    //         name: "vaibhav gupta",
+    //         profile_pic:
+    //           "https://userimg.amarujala.com/2024/11/19/673c35d3835ee.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-10T13:45:33+05:30",
+    //         profile_id: "673c35d5f5ba8d5929264d17",
+    //       },
+    //     ],
+    //   },
+    //   numerology: {
+    //     section_title: "अंक ज्योतिष",
+    //     list: [
+    //       {
+    //         _id: "67e670bd3748c72ddf53be90",
+    //         name: "test",
+    //         profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-28T15:22:36+05:30",
+    //         profile_id: "67330a2b546e970f88638189",
+    //       },
+    //       {
+    //         _id: "673c35f3eba3dc57f816f57d",
+    //         name: "vaibhav gupta",
+    //         profile_pic:
+    //           "https://userimg.amarujala.com/2024/11/19/673c35d3835ee.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-10T13:45:33+05:30",
+    //         profile_id: "673c35d5f5ba8d5929264d17",
+    //       },
+    //     ],
+    //   },
+    //   tarot: {
+    //     section_title: "tarot",
+    //     list: [
+    //       {
+    //         _id: "67e670bd3748c72ddf53be90",
+    //         name: "test",
+    //         profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-28T15:22:36+05:30",
+    //         profile_id: "67330a2b546e970f88638189",
+    //       },
+    //       {
+    //         _id: "67e670bd3748c72ddf53be90",
+    //         name: "test",
+    //         profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-28T15:22:36+05:30",
+    //         profile_id: "67330a2b546e970f88638189",
+    //       },
+    //       {
+    //         _id: "67e670bd3748c72ddf53be90",
+    //         name: "test",
+    //         profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-28T15:22:36+05:30",
+    //         profile_id: "67330a2b546e970f88638189",
+    //       },
+    //       {
+    //         _id: "67e670bd3748c72ddf53be90",
+    //         name: "test",
+    //         profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-28T15:22:36+05:30",
+    //         profile_id: "67330a2b546e970f88638189",
+    //       },
+    //       {
+    //         _id: "67e670bd3748c72ddf53be90",
+    //         name: "test",
+    //         profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-28T15:22:36+05:30",
+    //         profile_id: "67330a2b546e970f88638189",
+    //       },
+    //       {
+    //         _id: "67e670bd3748c72ddf53be90",
+    //         name: "test",
+    //         profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-28T15:22:36+05:30",
+    //         profile_id: "67330a2b546e970f88638189",
+    //       },
+    //       {
+    //         _id: "673c35f3eba3dc57f816f57d",
+    //         name: "vaibhav gupta",
+    //         profile_pic:
+    //           "https://userimg.amarujala.com/2024/11/19/673c35d3835ee.jpg",
+    //         social: {
+    //           youtube: "",
+    //           twitter: "",
+    //           facebook: "",
+    //         },
+    //         presence: "ONLINE",
+    //         updated_at: "2025-03-10T13:45:33+05:30",
+    //         profile_id: "673c35d5f5ba8d5929264d17",
+    //       },
+    //     ],
+    //   },
+    // },
     
     reviews: {
       section_title: "हमारे ग्राहक क्या कहते हैं",
