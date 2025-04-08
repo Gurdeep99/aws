@@ -294,7 +294,105 @@ export async function GET(req) {
           },
         ],
       },
+      tarot: {
+        section_title: "tarot",
+        list: [
+          {
+            _id: "67e670bd3748c72ddf53be90",
+            name: "test",
+            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+            social: {
+              youtube: "",
+              twitter: "",
+              facebook: "",
+            },
+            presence: "ONLINE",
+            updated_at: "2025-03-28T15:22:36+05:30",
+            profile_id: "67330a2b546e970f88638189",
+          },
+          {
+            _id: "67e670bd3748c72ddf53be90",
+            name: "test",
+            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+            social: {
+              youtube: "",
+              twitter: "",
+              facebook: "",
+            },
+            presence: "ONLINE",
+            updated_at: "2025-03-28T15:22:36+05:30",
+            profile_id: "67330a2b546e970f88638189",
+          },
+          {
+            _id: "67e670bd3748c72ddf53be90",
+            name: "test",
+            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+            social: {
+              youtube: "",
+              twitter: "",
+              facebook: "",
+            },
+            presence: "ONLINE",
+            updated_at: "2025-03-28T15:22:36+05:30",
+            profile_id: "67330a2b546e970f88638189",
+          },
+          {
+            _id: "67e670bd3748c72ddf53be90",
+            name: "test",
+            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+            social: {
+              youtube: "",
+              twitter: "",
+              facebook: "",
+            },
+            presence: "ONLINE",
+            updated_at: "2025-03-28T15:22:36+05:30",
+            profile_id: "67330a2b546e970f88638189",
+          },
+          {
+            _id: "67e670bd3748c72ddf53be90",
+            name: "test",
+            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+            social: {
+              youtube: "",
+              twitter: "",
+              facebook: "",
+            },
+            presence: "ONLINE",
+            updated_at: "2025-03-28T15:22:36+05:30",
+            profile_id: "67330a2b546e970f88638189",
+          },
+          {
+            _id: "67e670bd3748c72ddf53be90",
+            name: "test",
+            profile_pic: "https://userimg.amarujala.com/images/photo.jpg",
+            social: {
+              youtube: "",
+              twitter: "",
+              facebook: "",
+            },
+            presence: "ONLINE",
+            updated_at: "2025-03-28T15:22:36+05:30",
+            profile_id: "67330a2b546e970f88638189",
+          },
+          {
+            _id: "673c35f3eba3dc57f816f57d",
+            name: "vaibhav gupta",
+            profile_pic:
+              "https://userimg.amarujala.com/2024/11/19/673c35d3835ee.jpg",
+            social: {
+              youtube: "",
+              twitter: "",
+              facebook: "",
+            },
+            presence: "ONLINE",
+            updated_at: "2025-03-10T13:45:33+05:30",
+            profile_id: "673c35d5f5ba8d5929264d17",
+          },
+        ],
+      },
     },
+    
     reviews: {
       section_title: "हमारे ग्राहक क्या कहते हैं",
       list: [
