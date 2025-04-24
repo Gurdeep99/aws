@@ -30,7 +30,7 @@ export async function GET(req) {
             "componentId": 3,
             "contentProvider": 3,
             "content": {
-                "id": "MJ_BANNER_HOME_EN",
+                "id": "MJ_BANNER_HOME",
                 "propertyId": null,
                 "type": "header-widget",
                 "dateModified": "2025-04-21T17:32:31.71459",
@@ -52,7 +52,7 @@ export async function GET(req) {
             "componentId": 3,
             "contentProvider": 3,
             "content": {
-                "id": "MJ_TOOLS_EN",
+                "id": "MJ_TOOLS",
                 "propertyId": null,
                 "type": "header-widget",
                 "dateModified": "2025-04-21T17:32:31.71459",
@@ -74,7 +74,7 @@ export async function GET(req) {
             "componentId": 5,
             "contentProvider": 3,
             "content": {
-                "id": "MJ_ASTRO_VEDIC_EN",
+                "id": "MJ_ASTRO_VEDIC",
                 "propertyId": null,
                 "type": "discovery-url",
                 "dateModified": "2025-04-21T17:32:31.71459",
@@ -95,7 +95,7 @@ export async function GET(req) {
             "componentId": 5,
             "contentProvider": 3,
             "content": {
-                "id": "MJ_ASTRO_TAROT_EN",
+                "id": "MJ_ASTRO_TAROT",
                 "propertyId": null,
                 "type": "discovery-url",
                 "dateModified": "2025-04-21T17:32:31.71459",
@@ -116,7 +116,7 @@ export async function GET(req) {
             "componentId": 5,
             "contentProvider": 3,
             "content": {
-                "id": "MJ_POOJA_EN",
+                "id": "MJ_POOJA",
                 "propertyId": null,
                 "type": "discovery-url",
                 "dateModified": "2025-04-21T17:32:31.71459",
@@ -590,7 +590,7 @@ export async function GET(req) {
             "componentId": 3,
             "contentProvider": 3,
             "content": {
-                "id": "MJ_CUSTOMER_SAYS_EN",
+                "id": "MJ_CUSTOMER_SAYS",
                 "propertyId": null,
                 "type": "header-widget",
                 "dateModified": "2025-04-21T17:32:31.71459",
