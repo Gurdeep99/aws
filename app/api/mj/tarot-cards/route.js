@@ -19,7 +19,7 @@ export async function GET(req) {
 
   const data = {
     title: "Tarot Cards",
-    backCard: "https://cdnb.artstation.com/p/assets/images/images/014/976/765/large/sonya-henar-tarot-back.jpg?1546553128",
+    backCard: "https://aws.gurdeep.net/backcard.jpg",
     feed : [
     {
         "id": 1,
