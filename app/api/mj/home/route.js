@@ -21,8 +21,8 @@ export async function GET(req) {
     "feedId": 188,
     "feedVersionId": 189,
     "userId": "1",
-    "sessionId": "5ac00e67-a972-4a96-8e05-bd502663f055",
-    "pageId": "8e7f7af3-d56a-4c9b-bc8a-21b2effd9671",
+    "sessionId": "f4f20c8d-84f4-4229-8c2d-e6d29ccc9ab6",
+    "pageId": "b1ba7152-e57e-4aae-bf60-731db6b2e3b5",
     "pageNo": 1,
     "items": [
         {
@@ -33,14 +33,13 @@ export async function GET(req) {
                 "id": "MJ_BANNER_HOME",
                 "propertyId": null,
                 "type": "header-widget",
-                "dateModified": "2025-04-21T17:32:31.71459",
+                "dateModified": "2025-04-28T14:55:21.037175",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
                 "tags": null,
                 "embeddings": null,
                 "dataMap": {
-                    "title_hn": "Banner",
                     "url": "https://spiderstagejsapi.amarujala.com/mj/api/banner",
                     "height": null
                 },
@@ -55,14 +54,13 @@ export async function GET(req) {
                 "id": "MJ_TOOLS",
                 "propertyId": null,
                 "type": "header-widget",
-                "dateModified": "2025-04-21T17:32:31.71459",
+                "dateModified": "2025-04-28T14:55:21.037175",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
                 "tags": null,
                 "embeddings": null,
                 "dataMap": {
-                    "title_hn": "Tools",
                     "url": "https://spiderstagejsapi.amarujala.com/mj/api/tools/list",
                     "height": null
                 },
@@ -77,14 +75,17 @@ export async function GET(req) {
                 "id": "MJ_ASTRO_VEDIC",
                 "propertyId": null,
                 "type": "discovery-url",
-                "dateModified": "2025-04-21T17:32:31.71459",
+                "dateModified": "2025-04-28T14:55:21.037175",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
                 "tags": null,
                 "embeddings": null,
                 "dataMap": {
-                    "title": "Vedic Jyotish",
+                    "title": {
+                        "en": "Vedic Jyotish",
+                        "hi": "ैदिक ज्योतिष"
+                    },
                     "url": "https://spiderstagejsapi.amarujala.com/mj/api/astro?page=1&expertise=ज्योतिष शास्त्र&lang=en&limit=7"
                 },
                 "bookmarked": false
@@ -98,14 +99,17 @@ export async function GET(req) {
                 "id": "MJ_ASTRO_TAROT",
                 "propertyId": null,
                 "type": "discovery-url",
-                "dateModified": "2025-04-21T17:32:31.71459",
+                "dateModified": "2025-04-28T14:55:21.037175",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
                 "tags": null,
                 "embeddings": null,
                 "dataMap": {
-                    "title": "Tarot",
+                    "title": {
+                        "en": "Tarot",
+                        "hi": "टैरो"
+                    },
                     "url": "https://spiderstagejsapi.amarujala.com/mj/api/astro?page=1&expertise=tarot&lang=en&limit=7"
                 },
                 "bookmarked": false
@@ -119,14 +123,17 @@ export async function GET(req) {
                 "id": "MJ_POOJA",
                 "propertyId": null,
                 "type": "discovery-url",
-                "dateModified": "2025-04-21T17:32:31.71459",
+                "dateModified": "2025-04-28T14:55:21.037175",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
                 "tags": null,
                 "embeddings": null,
                 "dataMap": {
-                    "title": "Pooja",
+                    "title": {
+                        "en": "Pooja",
+                        "hi": "पूजा"
+                    },
                     "url": "https://spiderstagejsapi.amarujala.com/mj/api/list?type=pooja&page_no=1&limit=7"
                 },
                 "bookmarked": false
@@ -140,7 +147,7 @@ export async function GET(req) {
                 "id": "MJ_BLOGS_EN",
                 "propertyId": null,
                 "type": "discovery",
-                "dateModified": "2025-04-09T16:32:24.272328",
+                "dateModified": "2025-04-28T15:27:13.506732",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
@@ -151,8 +158,8 @@ export async function GET(req) {
                         "feedId": 184,
                         "feedVersionId": 185,
                         "userId": "1",
-                        "sessionId": "5ac00e67-a972-4a96-8e05-bd502663f055",
-                        "pageId": "47a27a5a-6d75-4a89-b864-557ae6f0a5fb",
+                        "sessionId": "4d0fc94f-0c2b-4f8b-b0a4-2fa97aeeefca",
+                        "pageId": "aa049aaf-4068-432d-8f9a-c35d673a8972",
                         "pageNo": 1,
                         "items": [
                             {
@@ -384,7 +391,7 @@ export async function GET(req) {
                         ],
                         "feedTitle": "Blogs Listing English"
                     },
-                    "title_hn": "JYOTISH BLOGS",
+                    "title_hn": "Blogs",
                     "icon_image": "",
                     "feed_id": 184
                 },
@@ -399,7 +406,7 @@ export async function GET(req) {
                 "id": "MJ_VIDEO_EN",
                 "propertyId": null,
                 "type": "discovery",
-                "dateModified": "2025-04-09T16:31:13.509969",
+                "dateModified": "2025-04-28T15:27:13.506732",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
@@ -410,8 +417,8 @@ export async function GET(req) {
                         "feedId": 186,
                         "feedVersionId": 187,
                         "userId": "1",
-                        "sessionId": "5ac00e67-a972-4a96-8e05-bd502663f055",
-                        "pageId": "7ee9d9b3-cfba-4c18-ab87-03dd22e36af5",
+                        "sessionId": "4d0fc94f-0c2b-4f8b-b0a4-2fa97aeeefca",
+                        "pageId": "910d8df5-f9a4-4838-b2e4-f4b2ec7d3725",
                         "pageNo": 1,
                         "items": [
                             {
@@ -578,7 +585,7 @@ export async function GET(req) {
                         ],
                         "feedTitle": "Video Listing English"
                     },
-                    "title_hn": "MJ VIDEOS",
+                    "title_hn": "Videos",
                     "icon_image": "",
                     "feed_id": 186
                 },
@@ -593,14 +600,13 @@ export async function GET(req) {
                 "id": "MJ_CUSTOMER_SAYS",
                 "propertyId": null,
                 "type": "header-widget",
-                "dateModified": "2025-04-21T17:32:31.71459",
+                "dateModified": "2025-04-28T14:55:21.037175",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
                 "tags": null,
                 "embeddings": null,
                 "dataMap": {
-                    "title_hn": "What our customer says",
                     "url": "https://spiderstagejsapi.amarujala.com/mj/api/astrologer/reviews?limit=2",
                     "height": null
                 },
