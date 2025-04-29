@@ -21,8 +21,8 @@ export async function GET(req) {
     "feedId": 188,
     "feedVersionId": 189,
     "userId": "1",
-    "sessionId": "f4f20c8d-84f4-4229-8c2d-e6d29ccc9ab6",
-    "pageId": "b1ba7152-e57e-4aae-bf60-731db6b2e3b5",
+    "sessionId": "80e2ebd6-deae-4038-ba1c-854c191557d7",
+    "pageId": "babec7ae-1ebb-405b-a4ef-cc5f7a591646",
     "pageNo": 1,
     "items": [
         {
@@ -75,7 +75,7 @@ export async function GET(req) {
                 "id": "MJ_ASTRO_VEDIC",
                 "propertyId": null,
                 "type": "discovery-url",
-                "dateModified": "2025-04-28T14:55:21.037175",
+                "dateModified": "2025-04-29T12:18:36.675291",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
@@ -86,7 +86,7 @@ export async function GET(req) {
                         "en": "Vedic Jyotish",
                         "hi": "ैदिक ज्योतिष"
                     },
-                    "url": "https://spiderstagejsapi.amarujala.com/mj/api/astro?page=1&expertise=ज्योतिष शास्त्र&lang=en&limit=7"
+                    "url": "https://spiderstagejsapi.amarujala.com/mj/api/astro?expertise=ज्योतिष शास्त्र&limit=7"
                 },
                 "bookmarked": false
             }
@@ -99,7 +99,7 @@ export async function GET(req) {
                 "id": "MJ_ASTRO_TAROT",
                 "propertyId": null,
                 "type": "discovery-url",
-                "dateModified": "2025-04-28T14:55:21.037175",
+                "dateModified": "2025-04-29T12:18:36.675291",
                 "categories": [],
                 "categoryLabel": null,
                 "categorySlug": null,
@@ -110,7 +110,7 @@ export async function GET(req) {
                         "en": "Tarot",
                         "hi": "टैरो"
                     },
-                    "url": "https://spiderstagejsapi.amarujala.com/mj/api/astro?page=1&expertise=tarot&lang=en&limit=7"
+                    "url": "https://spiderstagejsapi.amarujala.com/mj/api/astro?expertise=tarot&limit=7"
                 },
                 "bookmarked": false
             }
@@ -158,8 +158,8 @@ export async function GET(req) {
                         "feedId": 184,
                         "feedVersionId": 185,
                         "userId": "1",
-                        "sessionId": "4d0fc94f-0c2b-4f8b-b0a4-2fa97aeeefca",
-                        "pageId": "aa049aaf-4068-432d-8f9a-c35d673a8972",
+                        "sessionId": "59d5b682-427b-4ade-8e17-9c09b8004d45",
+                        "pageId": "0ef11787-f004-418c-bcfb-fbb1c59c1a7e",
                         "pageNo": 1,
                         "items": [
                             {
@@ -417,8 +417,8 @@ export async function GET(req) {
                         "feedId": 186,
                         "feedVersionId": 187,
                         "userId": "1",
-                        "sessionId": "4d0fc94f-0c2b-4f8b-b0a4-2fa97aeeefca",
-                        "pageId": "910d8df5-f9a4-4838-b2e4-f4b2ec7d3725",
+                        "sessionId": "59d5b682-427b-4ade-8e17-9c09b8004d45",
+                        "pageId": "e2800d1d-8882-45ae-b450-8e65f6a6d543",
                         "pageNo": 1,
                         "items": [
                             {
