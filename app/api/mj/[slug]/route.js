@@ -22,7 +22,7 @@ export async function GET(req, { params }) {
             },
         });
 
-        if (response1.status === 200 && response2.status === 200) {
+        if (response1.status === 200 || response2.status === 200) {
             return new Response("Weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee", {
                 status: 200,
                 headers: { 'Content-Type': 'application/json' },
