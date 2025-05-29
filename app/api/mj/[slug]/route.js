@@ -13,29 +13,36 @@ export async function GET(req, { params }) {
             },
         });
 
-        const response2 = await axios.post(`http://ssostage.amarujala.com/v1/chat/status`, {
-            chat_id: slug,
-            status: 'completed',
-        }, {
-            headers: {
-                'Content-Type': 'application/json',
-            },
-        });
-
-        if (response1.status === 200 || response2.status === 200) {
-            return new Response("Weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee", {
-                status: 200,
-                headers: { 'Content-Type': 'application/json' },
+        if (response1.status === 200) {
+            const response2 = await axios.post(`http://ssostage.amarujala.com/v1/chat/status`, {
+                chat_id: slug,
+                status: 'completed',
+            }, {
+                headers: {
+                    'Content-Type': 'application/json',
+                },
             });
+            if (response2.status === 200) {
+                return new Response(JSON.stringify({ "api 1": response1.data, "api 2": response2.data }), {
+                    status: 200,
+                    headers: { 'Content-Type': 'application/json' },
+                });
+            } else {
+                return new Response(JSON.stringify({ "api 1": response1.data }), {
+                    status: 500,
+                    headers: { 'Content-Type': 'application/json' },
+                });
+            }
         } else {
-            return new Response("Munna nahi hoga tum se", {
+            return new Response(JSON.stringify("Something went wrong"), {
                 status: 500,
                 headers: { 'Content-Type': 'application/json' },
             });
         }
+
     } catch (error) {
         console.error('Error fetching:', error.message);
-        return new Response("Munna nahi hoga tum se", {
+        return new Response(JSON.stringify("Munna nahi hoga tum se"), {
             status: 500,
             headers: { 'Content-Type': 'application/json' },
         });
