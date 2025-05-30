@@ -42,7 +42,7 @@ export async function GET(req, { params }) {
 
     } catch (error) {
         console.error('Error fetching:', error.message);
-        return new Response(JSON.stringify("Munna nahi hoga tum se"), {
+        return new Response(JSON.stringify("Something went wrong"), {
             status: 500,
             headers: { 'Content-Type': 'application/json' },
         });
