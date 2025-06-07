@@ -36,7 +36,7 @@ export async function GET(req) {
                 "original_price": 10,
                 "status": "ACTIVE",
                 "presence": "ONLINE",
-                "next_availability": null
+                "next_availability": '2025-06-07T17:15:30.000Z'
             },
             {
                 "vendor_service_id": "67c03189a606977fb36fe92a",
@@ -47,7 +47,7 @@ export async function GET(req) {
                 "original_price": 10,
                 "status": "ACTIVE",
                 "presence": "OFFLINE",
-                "next_availability": "2025-06-20T18:50:00+05:30"
+                "next_availability": "2025-06-07T17:15:30.000Z"
             }
         ],
         "widgets": [
