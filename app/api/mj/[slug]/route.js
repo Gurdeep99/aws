@@ -4,24 +4,28 @@ export async function GET(req, { params }) {
     const { slug } = params;
 
     try {
-        const response1 = await axios.post(`https://ssostage.amarujala.com/v1/chat/vendor_status`, {
-            chat_id: slug,
-            status: 'completed',
-        }, {
-            headers: {
-                'Content-Type': 'application/json',
-            },
-        });
-
-        if (response1.status === 200) {
-            const response2 = await axios.post(`http://ssostage.amarujala.com/v1/chat/status`, {
+        const response1 = await new Promise((resolve) => setTimeout(resolve, 3000)).then(() =>
+            axios.post(`https://ssostage.amarujala.com/v1/chat/vendor_status`, {
                 chat_id: slug,
                 status: 'completed',
             }, {
                 headers: {
                     'Content-Type': 'application/json',
                 },
-            });
+            })
+        );
+
+        if (response1.status === 200) {
+            const response2 = await new Promise((resolve) => setTimeout(resolve, 3000)).then(() =>
+                axios.post(`http://ssostage.amarujala.com/v1/chat/status`, {
+                    chat_id: slug,
+                    status: 'completed',
+                }, {
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                })
+            );
             if (response2.status === 200) {
                 return new Response(JSON.stringify({ "api 1": response1.data, "api 2": response2.data }), {
                     status: 200,

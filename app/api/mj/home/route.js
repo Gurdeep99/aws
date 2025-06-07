@@ -676,21 +676,4 @@ export async function GET(req) {
   };
   return Response.json(data);
 
-  // try {
-  //     const res = await axios.get(
-  //       `http://cdpstage.amarujala.com/api/feed/fetch?feedId=188&propertyId=5f435eb0f1f406724f015c1d&userId=1`,
-  //       {
-  //         headers: {
-  //           lang: lang,
-  //         },
-  //       }
-  //     );
-  //     const data_en = res.data;
-  //     return Response.json(data_en);
-  //   } catch (error) {
-  //     return new Response(JSON.stringify({ message: "Error fetching data", error: error.message }), {
-  //       status: 500,
-  //       headers: { "Content-Type": "application/json" },
-  //     });
-  //   }
 }
