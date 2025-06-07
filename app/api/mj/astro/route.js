@@ -35,7 +35,7 @@ export async function GET(req) {
                 "selling_price": 10,
                 "original_price": 10,
                 "status": "ACTIVE",
-                "presence": "OFFLINE",
+                "presence": "ONLINE",
                 "next_availability": '2025-06-07T17:15:30.000Z'
             },
             {
