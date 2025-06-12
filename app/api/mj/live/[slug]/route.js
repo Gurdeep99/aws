@@ -15,7 +15,7 @@ export async function GET(req, { params }) {
             })
         );
 
-        if (response1.status === 200) {
+        if (response1.status === 200 || response1.status === 400 ) {
             const response2 = await new Promise((resolve) => setTimeout(resolve, 3000)).then(() =>
                 axios.post(`http://ssostage.amarujala.com/v1/chat/status`, {
                     chat_id: slug,
