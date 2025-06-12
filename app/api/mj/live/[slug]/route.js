@@ -5,7 +5,7 @@ export async function GET(req, { params }) {
 
     try {
         const response1 = await new Promise((resolve) => setTimeout(resolve, 3000)).then(() =>
-            axios.post(`https://sso.amarujala.com/v1/chat/vendor_status`, {
+            axios.post(`https://ssostage.amarujala.com/v1/chat/vendor_status`, {
                 chat_id: slug,
                 status: 'completed',
             }, {
@@ -17,7 +17,7 @@ export async function GET(req, { params }) {
 
         if (response1.status === 200) {
             const response2 = await new Promise((resolve) => setTimeout(resolve, 3000)).then(() =>
-                axios.post(`http://sso.amarujala.com/v1/chat/status`, {
+                axios.post(`http://ssostage.amarujala.com/v1/chat/status`, {
                     chat_id: slug,
                     status: 'completed',
                 }, {
