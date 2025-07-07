@@ -16,9 +16,11 @@ export async function GET(request) {
   try {
     // Path to the data.json file inside src/data/
     const filePath = path.resolve(process.cwd(), 'src', 'data', 'data.json');
+    console.log('Reading data from:', filePath);
     
     // Read the data from the file
     const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    console.log('Data read from file:', data);
 
     // Shuffle the data to randomize the order
     const shuffledData = shuffleArray(data);
@@ -38,7 +40,7 @@ export async function GET(request) {
     });
   } catch (error) {
     console.error('Error reading the file:', error);
-    return new Response(JSON.stringify({ error: 'Something went wrong' }), {
+    return new Response(JSON.stringify({ error: 'Something went wrong during GET' }), {
       status: 500,
       headers: { 'Content-Type': 'application/json' },
     });
@@ -49,18 +51,22 @@ export async function GET(request) {
 export async function POST(request) {
   try {
     const data = await request.json();
+    console.log('Data received in POST:', data);
 
     // Path to the data.json file inside src/data/
     const filePath = path.resolve(process.cwd(), 'src', 'data', 'data.json');
+    console.log('Reading existing data from:', filePath);
     
     // Read existing data
     const existingData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    
+    console.log('Existing data:', existingData);
+
     // Append new data
     existingData.push(data);
 
     // Write the updated data back to the file
     fs.writeFileSync(filePath, JSON.stringify(existingData, null, 4));
+    console.log('Updated data written to file:', existingData);
 
     // Return the added data as a response
     return new Response(JSON.stringify({
@@ -77,7 +83,7 @@ export async function POST(request) {
     });
   } catch (error) {
     console.error('Error adding data:', error);
-    return new Response(JSON.stringify({ error: 'Something went wrong' }), {
+    return new Response(JSON.stringify({ error: 'Something went wrong during POST' }), {
       status: 500,
       headers: { 'Content-Type': 'application/json' },
     });
