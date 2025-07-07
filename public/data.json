@@ -1,0 +1,2796 @@
+[
+    {
+        "position": 1,
+        "componentId": 102,
+        "contentProvider": 4,
+        "content": {
+            "id": "686b38bc874d4779c500f766",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T08:33:04.647",
+            "categories": [
+                10197
+            ],
+            "categoryLabel": "दुनिया",
+            "categorySlug": "world",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "world/trump-s-warning-to-brics-countries-said-will-impose-10-additional-tariff-on-supporting-anti-us-policies-2025-07-07",
+                "image": "/2025/04/26/trump-expresses-doubts-putin-is-willing-to-end-ukraine-war-day-after-saying-deal-was-close_cfea3ff0a74dac3791aa0f939f3ee49b.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Trump: ब्रिक्स देशों को ट्रंप की चेतावनी, बोले- US विरोधी नीतियों का समर्थन करने पर 10% अतिरिक्त टैरिफ लगाएंगे",
+                "synopsis": "Trump: ब्रिक्स देशों को ट्रंप की चेतावनी, बोले- US विरोधी नीतियों का समर्थन करने पर 10% अतिरिक्त टैरिफ लगाएंगे",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 2,
+        "componentId": 113,
+        "contentProvider": 8,
+        "content": {
+            "id": "686b45086d46f414c203756f",
+            "propertyId": null,
+            "type": "live",
+            "dateModified": "2025-07-07T10:09:34.796",
+            "categories": [
+                10381,
+                10380
+            ],
+            "categoryLabel": "दिल्ली-एनसीआर",
+            "categorySlug": "delhi-ncr",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "live/delhi-ncr/delhi-ncr-weather-live-updates-traffic-in-noida-gurugram-and-delhi-know-monsoon-weather-forecast-news-hindi-2025-07-07",
+                "image": "/2025/07/07/brasha-sa-bgaugdha-garatara-naeda-ka-tarafaka-sasatama_e8cfb0485f0b0bc5420ab58149c78a21.jpeg",
+                "is_premium": false,
+                "title_hn": "Delhi NCR Weather Live: दिल्ली-एनसीआर में झमाझम बारिश से बढ़ी मुश्किल, बिगड़ा ग्रेटर नोएडा का ट्रैफिक सिस्टम",
+                "synopsis": "Delhi NCR Weather Update: मौसम विभाग के मुताबिक, दिल्ली-एनसीआर में  जोरदार बारिश का यलो अलर्ट जारी किया गया है।"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 1,
+        "componentId": 108,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b4ad5cecfe9893b0a807a",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-07T09:49:33.197",
+            "categories": [
+                10261,
+                10210
+            ],
+            "categoryLabel": "मथुरा",
+            "categorySlug": "uttar-pradesh/mathura",
+            "tags": null,
+            "dataMap": {
+                "image": "1UyDiy1.0000000.jpg",
+                "video_duration": "01:48",
+                "full_slug": "video/uttar-pradesh/mathura/video-huge-crowd-of-pilgrims-reached-at-govardhan-parikrama-2025-07-07",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/07/1UyDiy1.m3u8",
+                "title_hn": "VIDEO: गिरिराजजी की परिक्रमा के लिए उमड़ा श्रद्धालुओं का हुजूम, सुरक्षा इंतजाम पुख्ता",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "VIDEO: गिरिराजजी की परिक्रमा के लिए उमड़ा श्रद्धालुओं का हुजूम, सुरक्षा इंतजाम पुख्ता",
+                "youtube_id": "1UyDiy1",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 2,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686ab95e53265cd8870162fb",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T23:28:54.424",
+            "categories": [
+                10278,
+                10210
+            ],
+            "categoryLabel": "सोनभद्र",
+            "categorySlug": "uttar-pradesh/sonebhadra",
+            "tags": null,
+            "dataMap": {
+                "image": "1UyswF8.0000000.jpg",
+                "video_duration": "06:52",
+                "full_slug": "video/uttar-pradesh/sonebhadra/video-mother-of-four-children-marries-father-of-four-children-watch-video-of-social-boycott-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UyswF8.m3u8",
+                "title_hn": "चार बच्चों की मां ने चार बच्चों के पिता संग रचाई शादी, देखें सामाजिक बहिष्कार का VIDEO",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "चार बच्चों की मां ने चार बच्चों के पिता संग रचाई शादी, देखें सामाजिक बहिष्कार का VIDEO",
+                "youtube_id": "1UyswF8",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 3,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686ab12a75f8708ce50ac7ae",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T22:53:54.488",
+            "categories": [
+                10252,
+                10210
+            ],
+            "categoryLabel": "कानपुर",
+            "categorySlug": "uttar-pradesh/kanpur",
+            "tags": null,
+            "dataMap": {
+                "image": "1UyrWc10.0000000.jpg",
+                "video_duration": "00:40",
+                "full_slug": "video/uttar-pradesh/kanpur/video-mahaarati-was-performed-with-the-chanting-of-har-har-gange-on-devshayani-ekadashi-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UyrWc10.m3u8",
+                "title_hn": "देवशयनी एकादशी पर हर-हर गंगे के उद्गोष के साथ की महाआरती",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "देवशयनी एकादशी पर हर-हर गंगे के उद्गोष के साथ की महाआरती",
+                "youtube_id": "1UyrWc10",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 4,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686aa772627b3fb1b203b33e",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T22:12:26.594",
+            "categories": [
+                10347,
+                10340
+            ],
+            "categoryLabel": "जींद",
+            "categorySlug": "haryana/jind",
+            "tags": null,
+            "dataMap": {
+                "image": "1Uyspv1.0000000.jpg",
+                "video_duration": "03:41",
+                "full_slug": "video/haryana/jind/video-deputy-speaker-heard-public-problems-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uyspv1.m3u8",
+                "title_hn": "जींद: डिप्टी स्पीकर ने अपने आवास पर सुनी जन समस्याएं",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "जींद: डिप्टी स्पीकर ने अपने आवास पर सुनी जन समस्याएं",
+                "youtube_id": "1Uyspv1",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 5,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686aa5852349630a5709dbf0",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T22:04:13.262",
+            "categories": [
+                10212,
+                10210
+            ],
+            "categoryLabel": "अलीगढ़",
+            "categorySlug": "uttar-pradesh/aligarh",
+            "tags": null,
+            "dataMap": {
+                "image": "1Uyse25.0000000.jpg",
+                "video_duration": "00:25",
+                "full_slug": "video/uttar-pradesh/aligarh/video-algaugdhha-ka-thahal-gata-thana-ataragata-hatha-pal-ka-naca-tha-lugdhakaya-ka-satha-chhaugdhachhaugdha-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uyse25.m3u8",
+                "title_hn": "अलीगढ़ के देहली गेट थाना अंतर्गत हाथी पुल के नीचे दो लड़कियों के साथ छेड़छाड़",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "अलीगढ़ के देहली गेट थाना अंतर्गत हाथी पुल के नीचे दो लड़कियों के साथ छेड़छाड़",
+                "youtube_id": "1Uyse25",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 6,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a9317bec053676008e174",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T21:56:15.273",
+            "categories": [
+                10311,
+                39067
+            ],
+            "categoryLabel": "मध्य प्रदेश",
+            "categorySlug": "madhya-pradesh",
+            "tags": null,
+            "dataMap": {
+                "image": "1Uyr5w7.0000000.jpg",
+                "video_duration": "54",
+                "full_slug": "video/madhya-pradesh/mandsaur/two-youths-from-kota-and-keshavpur-drowned-in-deep-water-in-mini-goa-one-died-the-other-was-rescued-mandsaur-news-c-1-1-noi1351-3138996-2025-07-06",
+                "is_premium": false,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/4cplus/2025/07/06/1Uyr5w7.m3u8",
+                "title_hn": "Mandsaur News: मिनी गोवा में गहरे पानी में डूबे कोटा और केशवपुर निवासी दो युवक, एक की मौत, दूसरे को बचाया",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "पर्यटन के लिए मशहूर भानपुरा का कवंला जलप्रपात (मिनी गोवा) रविवार दोपहर एक दुखद हादसे का गवाह बन गया। जलक्रीड़ा के दौरान गहरे पानी में चले जाने से एक युवक की मौत हो गई, जबकि दूसरा युवक बाल-बाल बच गया।\r\nमृतक की पहचान चेतन निवासी कोटा के रूप में हुई।",
+                "youtube_id": "1Uyr5w7",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 7,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a99a4f3476960e20baa75",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T21:49:29.107",
+            "categories": [
+                10327,
+                10311
+            ],
+            "categoryLabel": "खंडवा",
+            "categorySlug": "madhya-pradesh/khandwa",
+            "tags": null,
+            "dataMap": {
+                "image": "1Uyrwz7.0000000.jpg",
+                "video_duration": "54",
+                "full_slug": "video/madhya-pradesh/khandwa/mutton-served-in-sev-tomato-to-devotees-muslim-operator-running-a-dhaba-under-hindu-name-arrested-khandwa-news-c-1-1-noi1224-3139301-2025-07-06",
+                "is_premium": false,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/4cplus/2025/07/06/1Uyrwz7.m3u8",
+                "title_hn": "Khandwa News: श्रद्धालुओं को सेव टमाटर में परोसा गया मटन, हिन्दू नाम से ढाबा चला रहा मुस्लिम संचालक गिरफ्तार",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "सूचना मिलते ही हिंदू संगठनों के कार्यकर्ता घटनास्थल पर पहुंचे और पंधाना पुलिस को मामले से अवगत कराया गया। जांच में सामने आया कि ‘राजवीर ढाबा’ नाम से चल रहे इस प्रतिष्ठान को मुस्लिम युवक जावेद चला रहा था।",
+                "youtube_id": "1Uyrwz7",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 8,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a9ed208b549c5ab048e6c",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T21:35:38.345",
+            "categories": [
+                10344,
+                10340
+            ],
+            "categoryLabel": "फतेहाबाद",
+            "categorySlug": "haryana/fatehabad",
+            "tags": null,
+            "dataMap": {
+                "image": "1UyrRL2.0000000.jpg",
+                "video_duration": "00:28",
+                "full_slug": "video/haryana/fatehabad/video-collision-between-horse-and-bike-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UyrRL2.m3u8",
+                "title_hn": "फतेहाबाद: घोड़े और बाइक की हुई टक्कर, बाइक सवार हुआ गंभीर रूप से घायल",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "फतेहाबाद: घोड़े और बाइक की हुई टक्कर, बाइक सवार हुआ गंभीर रूप से घायल",
+                "youtube_id": "1UyrRL2",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 9,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a92e2d3e91088480aafcd",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T20:44:42.984",
+            "categories": [
+                10249,
+                10210
+            ],
+            "categoryLabel": "जौनपुर",
+            "categorySlug": "uttar-pradesh/jaunpur",
+            "tags": null,
+            "dataMap": {
+                "image": "1UyqYv1.0000000.jpg",
+                "video_duration": "00:33",
+                "full_slug": "video/uttar-pradesh/jaunpur/video-many-patients-were-treated-in-public-health-fair-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UyqYv1.m3u8",
+                "title_hn": "जन आरोग्य मेले में 25 मरीजों का हुआ इलाज, VIDEO",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "जन आरोग्य मेले में 25 मरीजों का हुआ इलाज, VIDEO",
+                "youtube_id": "1UyqYv1",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 10,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a90edb1ffcee791081c2f",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T20:36:21.909",
+            "categories": [
+                10264,
+                10210
+            ],
+            "categoryLabel": "मिर्जापुर",
+            "categorySlug": "uttar-pradesh/mirzapur",
+            "tags": null,
+            "dataMap": {
+                "image": "1UyqI36.0000000.jpg",
+                "video_duration": "01:23",
+                "full_slug": "video/uttar-pradesh/mirzapur/video-karani-sena-will-help-everyone-by-expanding-organization-video-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UyqI36.m3u8",
+                "title_hn": "संगठन विस्तार कर सबकी मदद करेगा करणी सेना, VIDEO",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "संगठन विस्तार कर सबकी मदद करेगा करणी सेना, VIDEO",
+                "youtube_id": "1UyqI36",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 11,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a90c5f1579920af0ecfb5",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T20:35:41.603",
+            "categories": [
+                10346,
+                10340
+            ],
+            "categoryLabel": "झज्जर/बहादुरगढ़",
+            "categorySlug": "haryana/jhajjar-bahadurgarh",
+            "tags": null,
+            "dataMap": {
+                "image": "1UyqQR2.0000000.jpg",
+                "video_duration": "00:24",
+                "full_slug": "video/haryana/jhajjar-bahadurgarh/video-7-arrested-in-extortion-case-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UyqQR2.m3u8",
+                "title_hn": "झज्जर: पुलिस ने रंगदारी मामले में की बड़ी कार्रवाई, सात आरोपी गिरफ्तार",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "झज्जर: पुलिस ने रंगदारी मामले में की बड़ी कार्रवाई, सात आरोपी गिरफ्तार",
+                "youtube_id": "1UyqQR2",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 12,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a65ee33dcc02297013b7a",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T20:31:22.095",
+            "categories": [
+                10319,
+                10311
+            ],
+            "categoryLabel": "जबलपुर",
+            "categorySlug": "madhya-pradesh/jabalpur",
+            "tags": null,
+            "dataMap": {
+                "image": "1Uyo547.0000000.jpg",
+                "video_duration": "54",
+                "full_slug": "video/madhya-pradesh/jabalpur/the-water-level-of-the-narmada-river-increased-due-to-the-opening-of-9-gates-of-the-bargi-dam-jabalpur-news-c-1-1-noi1229-3137258-2025-07-06",
+                "is_premium": false,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/4cplus/2025/07/06/1Uyo547.m3u8",
+                "title_hn": "Jabalpur News: बरगी बांध के नौ गेट खुलने से नर्मदा नदी के जलस्तर में बढ़ोतरी, महाकौशल में बारिश का कहर बरकरार",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "The water level of the Narmada river increased due to the opening of 9 gates of the Bargi dam",
+                "youtube_id": "1Uyo547",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 13,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a8ec32ce4d06f910a46b4",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T20:27:07.549",
+            "categories": [
+                10384,
+                10380
+            ],
+            "categoryLabel": "नोएडा",
+            "categorySlug": "delhi-ncr/noida",
+            "tags": null,
+            "dataMap": {
+                "image": "1UyqHC3.0000000.jpg",
+                "video_duration": "06:52",
+                "full_slug": "video/delhi-ncr/noida/video-young-karate-stars-shined-in-the-national-karate-championship-in-noida-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UyqHC3.m3u8",
+                "title_hn": "नोएडा में राष्ट्रीय कराटे चैंपियनशिप में युवा कराटे सितारों ने बिखेरी चमक, स्टेडियम में हुए सम्मानित",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "नोएडा में राष्ट्रीय कराटे चैंपियनशिप में युवा कराटे सितारों ने बिखेरी चमक, स्टेडियम में हुए सम्मानित",
+                "youtube_id": "1UyqHC3",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 14,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a89e3abcf01ff5f07380a",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T20:06:19.202",
+            "categories": [
+                10257,
+                10210
+            ],
+            "categoryLabel": "लखनऊ",
+            "categorySlug": "lucknow",
+            "tags": null,
+            "dataMap": {
+                "image": "1Uyqmg0.0000000.jpg",
+                "video_duration": "04:46",
+                "full_slug": "video/lucknow/video-video-bthashaha-nagara-karabl-ma-sanana-samathaya-ka-ora-sa-mahararama-ka-thasava-ka-thana-thafana-kaya-gaya-tajaya-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uyqmg0.m3u8",
+                "title_hn": "VIDEO:  बादशाह नगर कर्बला में सुन्नी समुदाय की ओर से मोहर्रम की दसवीं के दिन दफन किया गया ताजिया",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "VIDEO:  बादशाह नगर कर्बला में सुन्नी समुदाय की ओर से मोहर्रम की दसवीं के दिन दफन किया गया ताजिया",
+                "youtube_id": "1Uyqmg0",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 15,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a07502c786be1a10d5e77",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T19:52:03.011",
+            "categories": [
+                10319,
+                10311
+            ],
+            "categoryLabel": "जबलपुर",
+            "categorySlug": "madhya-pradesh/jabalpur",
+            "tags": null,
+            "dataMap": {
+                "image": "1UyhMn2.0000000.jpg",
+                "video_duration": "54",
+                "full_slug": "video/madhya-pradesh/jabalpur/do-not-enter-the-temple-wearing-mini-skirt-jeans-top-and-western-clothes-jabalpur-news-c-1-1-noi1229-3136918-2025-07-06",
+                "is_premium": false,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/4cplus/2025/07/06/1UyhMn2.m3u8",
+                "title_hn": "Jabalpur News: मिनी स्कर्ट, जींस-टॉप तथा वेस्टर्न कपड़े पहनकर मंदिर में नहीं करें प्रवेश, पोस्टर लगाकर अपील",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "Do not enter the temple wearing mini skirt, jeans-top and western clothes",
+                "youtube_id": "1UyhMn2",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 16,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a81ed2e52dab50d001887",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T19:32:21.895",
+            "categories": [
+                85092,
+                10381
+            ],
+            "categoryLabel": "नूंह",
+            "categorySlug": "delhi-ncr/nuh",
+            "tags": null,
+            "dataMap": {
+                "image": "1UypTT0.0000000.jpg",
+                "video_duration": "01:12",
+                "full_slug": "video/delhi-ncr/nuh/video-farmer-leader-ravi-azad-in-nuh-threatened-to-be-killed-by-throwing-acid-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UypTT0.m3u8",
+                "title_hn": "नूंह में किसान नेता रवि आजाद को तेजाब डालकर मारने की धमकी, रोजका मेव थाने में शिकायत दर्ज",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "नूंह में किसान नेता रवि आजाद को तेजाब डालकर मारने की धमकी, रोजका मेव थाने में शिकायत दर्ज",
+                "youtube_id": "1UypTT0",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 17,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a73e1b88dfd5b1e0a690f",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T19:25:14.981",
+            "categories": [
+                10374,
+                10372
+            ],
+            "categoryLabel": "अलवर",
+            "categorySlug": "rajasthan/alwar",
+            "tags": null,
+            "dataMap": {
+                "image": "1Uyp0E10.0000000.jpg",
+                "video_duration": "54",
+                "full_slug": "video/rajasthan/alwar/a-drunk-young-man-broke-the-wall-and-drove-his-car-into-the-house-alwar-news-c-1-1-noi1339-3137559-2025-07-06",
+                "is_premium": false,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/4cplus/2025/07/06/1Uyp0E10.m3u8",
+                "title_hn": "Alwar News: तेज रफ्तार कार ने दीवार तोड़ घर में घुसी, बुजुर्ग महिला बाल-बाल बची, नशे में धुत चालक गिरफ्तार",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "मुल्तान नगर में नशे की हालत में एक युवक ने कार से घर की दीवार तोड़ी।नशे की हालत में लोगो ने युवक को पकड़ लिया और पुलिस के हवाले कर दिया।",
+                "youtube_id": "1Uyp0E10",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 18,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a7dbcba6782c2b90be675",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T19:14:28.179",
+            "categories": [
+                10281,
+                10210
+            ],
+            "categoryLabel": "वाराणसी",
+            "categorySlug": "uttar-pradesh/varanasi",
+            "tags": null,
+            "dataMap": {
+                "image": "1UypCu7.0000000.jpg",
+                "video_duration": "00:23",
+                "full_slug": "video/uttar-pradesh/varanasi/video-muslim-boys-played-with-wood-in-varanasi-video-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UypCu7.m3u8",
+                "title_hn": "वाराणसी में मुस्लिम लड़कों ने लकड़ी से खेला, VIDEO",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "वाराणसी में मुस्लिम लड़कों ने लकड़ी से खेला, VIDEO",
+                "youtube_id": "1UypCu7",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 19,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a799822211b8706020e88",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T18:56:48.587",
+            "categories": [
+                10230,
+                10210
+            ],
+            "categoryLabel": "बुलंदशहर",
+            "categorySlug": "uttar-pradesh/bulandshahr",
+            "tags": null,
+            "dataMap": {
+                "image": "1UypmF9.0000000.jpg",
+                "video_duration": "00:48",
+                "full_slug": "video/uttar-pradesh/bulandshahr/video-dispute-between-woman-police-station-in-charge-and-policemen-travelling-in-car-both-suspended-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UypmF9.m3u8",
+                "title_hn": "महिला थाना प्रभारी और कार सवार पुलिसकर्मियों के बीच विवाद, दोनों लाइन हाजिर",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "महिला थाना प्रभारी और कार सवार पुलिसकर्मियों के बीच विवाद, दोनों लाइन हाजिर",
+                "youtube_id": "1UypmF9",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 20,
+        "componentId": 108,
+        "contentProvider": 1,
+        "content": {
+            "id": "686a77372c5189c66003054c",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-06T18:46:39.504",
+            "categories": [
+                10219,
+                10210
+            ],
+            "categoryLabel": "बागपत",
+            "categorySlug": "uttar-pradesh/baghpat",
+            "tags": null,
+            "dataMap": {
+                "image": "1UypbH7.0000000.jpg",
+                "video_duration": "00:23",
+                "full_slug": "video/uttar-pradesh/baghpat/video-baghpat-tributes-paid-to-three-friends-killed-in-lalgarh-road-accident-2025-07-06",
+                "is_premium": null,
+                "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UypbH7.m3u8",
+                "title_hn": "बागपत: बहाल गढ़ सड़क दुर्घटना में मृत तीन दोस्तों को दी श्रद्धाजंलि",
+                "mute": false,
+                "is_native_player": true,
+                "synopsis": "बागपत: बहाल गढ़ सड़क दुर्घटना में मृत तीन दोस्तों को दी श्रद्धाजंलि",
+                "youtube_id": "1UypbH7",
+                "autoplay": false,
+                "video_type": "auw_video"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 1,
+        "componentId": 102,
+        "contentProvider": 4,
+        "content": {
+            "id": "686b38bc874d4779c500f766",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T08:33:04.647",
+            "categories": [
+                10197
+            ],
+            "categoryLabel": "दुनिया",
+            "categorySlug": "world",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "world/trump-s-warning-to-brics-countries-said-will-impose-10-additional-tariff-on-supporting-anti-us-policies-2025-07-07",
+                "image": "/2025/04/26/trump-expresses-doubts-putin-is-willing-to-end-ukraine-war-day-after-saying-deal-was-close_cfea3ff0a74dac3791aa0f939f3ee49b.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Trump: ब्रिक्स देशों को ट्रंप की चेतावनी, बोले- US विरोधी नीतियों का समर्थन करने पर 10% अतिरिक्त टैरिफ लगाएंगे",
+                "synopsis": "Trump: ब्रिक्स देशों को ट्रंप की चेतावनी, बोले- US विरोधी नीतियों का समर्थन करने पर 10% अतिरिक्त टैरिफ लगाएंगे",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 2,
+        "componentId": 113,
+        "contentProvider": 8,
+        "content": {
+            "id": "686b45086d46f414c203756f",
+            "propertyId": null,
+            "type": "live",
+            "dateModified": "2025-07-07T10:09:34.796",
+            "categories": [
+                10381,
+                10380
+            ],
+            "categoryLabel": "दिल्ली-एनसीआर",
+            "categorySlug": "delhi-ncr",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "live/delhi-ncr/delhi-ncr-weather-live-updates-traffic-in-noida-gurugram-and-delhi-know-monsoon-weather-forecast-news-hindi-2025-07-07",
+                "image": "/2025/07/07/brasha-sa-bgaugdha-garatara-naeda-ka-tarafaka-sasatama_e8cfb0485f0b0bc5420ab58149c78a21.jpeg",
+                "is_premium": false,
+                "title_hn": "Delhi NCR Weather Live: दिल्ली-एनसीआर में झमाझम बारिश से बढ़ी मुश्किल, बिगड़ा ग्रेटर नोएडा का ट्रैफिक सिस्टम",
+                "synopsis": "Delhi NCR Weather Update: मौसम विभाग के मुताबिक, दिल्ली-एनसीआर में  जोरदार बारिश का यलो अलर्ट जारी किया गया है।"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 3,
+        "componentId": 1,
+        "contentProvider": 4,
+        "content": {
+            "id": "VIDEO",
+            "propertyId": null,
+            "type": "discovery",
+            "dateModified": "2025-05-22T15:22:19.831499",
+            "categories": [],
+            "categoryLabel": null,
+            "categorySlug": null,
+            "tags": null,
+            "dataMap": {
+                "feed": {
+                    "feedId": 1917,
+                    "feedVersionId": 1916,
+                    "userId": "6741d0e7c722f07def054cc",
+                    "sessionId": "c60e11e1-d2cb-4d3f-85f6-11e3f13cda9c",
+                    "pageId": "530a70db-f6d6-4a17-a70c-87852122129a",
+                    "pageNo": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "componentId": 108,
+                            "contentProvider": 4,
+                            "content": {
+                                "id": "686b4c7d8db5e9dafc043555",
+                                "propertyId": null,
+                                "type": "video",
+                                "dateModified": "2025-07-07T09:56:37.298",
+                                "categories": [
+                                    10081
+                                ],
+                                "categoryLabel": "देश",
+                                "categorySlug": "india-news",
+                                "tags": null,
+                                "dataMap": {
+                                    "image": "uQeDBgqw.0000000.jpg",
+                                    "video_duration": "4:42",
+                                    "full_slug": "video/india-news/bihar-muharram-juloos-violence-in-many-cities-of-bihar-during-tajia-procession-many-injured-2025-07-07",
+                                    "is_premium": false,
+                                    "video_url": "https://vid.amarujala.com/uploaded_videos/2025/07/07/uQeDBgqw.m3u8",
+                                    "title_hn": "Bihar Muharram Juloos: ताजिया के दौरान बिहार में कई शहरों में बवाल, कई घायल |",
+                                    "mute": false,
+                                    "is_native_player": true,
+                                    "synopsis": "ताजिया जुलूस के दौरान जमकर हंगामा देखने को मिला कही लौट रहे लोगों ने दूसरे पक्ष पर हमला किया तो लाठी-डंडे से पीटा और पथराव भी किया गया।पुलिस प्रशासन ने सख्त रवैया अपनाते हुए घटना में शामिल कई लोगों को हिरासत में ले लिया है।",
+                                    "youtube_id": "uQeDBgqw",
+                                    "autoplay": false,
+                                    "video_type": "auw_video"
+                                },
+                                "bookmarked": false
+                            }
+                        }
+                    ],
+                    "feedTitle": null
+                },
+                "title_hn": "वीडियोज",
+                "icon_image": "",
+                "feed_id": 1917
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 4,
+        "componentId": 105,
+        "contentProvider": 4,
+        "content": {
+            "id": "686b2d1dfff9445936003a8d",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T07:43:28.337",
+            "categories": [
+                10081
+            ],
+            "categoryLabel": "देश",
+            "categorySlug": "india-news",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "india-news/north-india-drenched-due-to-heavy-rains-red-alert-in-himachal-uttarakhand-weather-condition-of-other-states-2025-07-07",
+                "image": "/2025/07/07/brasha-ka-calta-kaii-rajaya-ma-javana-asata-vayasata_66974ac5f4c5f0903cd2f65e105459d6.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Weather: भारी बारिश से उत्तर भारत हुआ तरबतर, हिमाचल-उत्तराखंड में रेड अलर्ट; जानें अन्य राज्यों के मौसम का हाल",
+                "synopsis": "Weather: भारी बारिश से उत्तर भारत हुआ तरबतर, हिमाचल-उत्तराखंड में रेड अलर्ट; जानें अन्य राज्यों के मौसम का हाल",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 5,
+        "componentId": 104,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b3907562e0b56d407231e",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T09:14:00.666",
+            "categories": [
+                10357,
+                10340
+            ],
+            "categoryLabel": "सोनीपत",
+            "categorySlug": "haryana/sonipat",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "haryana/sonipat/drunk-baba-killed-young-man-when-he-tried-to-dispose-of-body-his-car-got-stuck-in-mud-in-sonipat-2025-07-07",
+                "image": "/2025/07/07/sonipat-murder_257421ec4774c4497d4bd2a894b6170d.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "बाबा ने किया कत्ल: लाश ठिकाने लगाने जा रहे कातिल की कार कीचड़ में फंसी; विक्रम का पैर न फिसलता तो बच जाता वो",
+                "synopsis": "सोनीपत में नशा करते हुई कहासुनी के बाद खरखौदा के रहने वाले सतनारायण ने नासिरपुर चौलका निवासी रवींद्र (60) की गला दबाकर हत्या कर दी।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 6,
+        "componentId": 1,
+        "contentProvider": 4,
+        "content": {
+            "id": "VIDEO_SHOTS",
+            "propertyId": null,
+            "type": "discovery",
+            "dateModified": "2025-05-22T15:22:19.831499",
+            "categories": [],
+            "categoryLabel": null,
+            "categorySlug": null,
+            "tags": null,
+            "dataMap": {
+                "feed": {
+                    "feedId": 1839,
+                    "feedVersionId": 1839,
+                    "userId": "6741d0e7c722f07def054cc",
+                    "sessionId": "c60e11e1-d2cb-4d3f-85f6-11e3f13cda9c",
+                    "pageId": "5e817d1b-44c7-445e-ad5b-96296e721f9f",
+                    "pageNo": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "componentId": 111,
+                            "contentProvider": 1,
+                            "content": {
+                                "id": "686b4b056d4169bf7608731e",
+                                "propertyId": null,
+                                "type": "video-shots",
+                                "dateModified": "2025-07-07T09:50:21.497",
+                                "categories": [
+                                    10208
+                                ],
+                                "categoryLabel": "शॉर्ट वीडियो",
+                                "categorySlug": "short-videos",
+                                "tags": null,
+                                "dataMap": {
+                                    "image": "1UyDe4w.0000000.jpg",
+                                    "video_duration": "39.753",
+                                    "full_slug": "video-shots/short-videos/video-ganga-expressway-has-become-a-hub-for-stuntmen-every-sunday-a-race-is-held-and-crores-are-bet-on-bikes-and-horses-on-the-stretch-built-from-bijauli-to-garh-a-ground-for-playing-with-death-2025-07-07",
+                                    "is_premium": false,
+                                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/07/1UyDe4w.m3u8",
+                                    "title_hn": "गंगा एक्सप्रेसवे बना स्टंटबाजों का अड्डा: हर रविवार लगती है बाइक व घोड़ों की रेस और करोड़ों की बेट",
+                                    "mute": false,
+                                    "is_native_player": true,
+                                    "synopsis": "गंगा एक्सप्रेसवे बना स्टंटबाजों का अड्डा: हर रविवार लगती है रेस और करोड़ों की बेट बिजौली से गढ़ तक बन चुके हिस्से पर बाइकों और घोड़ों की रेस, मौत से खेलने का बना मैदान",
+                                    "youtube_id": "1UyDe4w",
+                                    "autoplay": false,
+                                    "video_type": "auw_video"
+                                },
+                                "bookmarked": false
+                            }
+                        },
+                        {
+                            "position": 2,
+                            "componentId": 111,
+                            "contentProvider": 1,
+                            "content": {
+                                "id": "686abc00cdb354684c026c8b",
+                                "propertyId": null,
+                                "type": "video-shots",
+                                "dateModified": "2025-07-06T23:40:08.221",
+                                "categories": [
+                                    10208
+                                ],
+                                "categoryLabel": "शॉर्ट वीडियो",
+                                "categorySlug": "short-videos",
+                                "tags": null,
+                                "dataMap": {
+                                    "image": "1UytHLi.0000000.jpg",
+                                    "video_duration": "02:31",
+                                    "full_slug": "video-shots/short-videos/video-si-beaten-in-kurukshetra-2025-07-06",
+                                    "is_premium": null,
+                                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UytHLi.m3u8",
+                                    "title_hn": "कुरुक्षेत्र: SI की थाने के बाहर पिटाई, मारे थप्पड़ और फाड़ी वर्दी",
+                                    "mute": false,
+                                    "is_native_player": true,
+                                    "synopsis": "कुरुक्षेत्र: SI की थाने के बाहर पिटाई, मारे थप्पड़ और फाड़ी वर्दी",
+                                    "youtube_id": "1UytHLi",
+                                    "autoplay": false,
+                                    "video_type": "auw_video"
+                                },
+                                "bookmarked": false
+                            }
+                        },
+                        {
+                            "position": 3,
+                            "componentId": 111,
+                            "contentProvider": 1,
+                            "content": {
+                                "id": "686ab0c30a82c9d3090735d4",
+                                "propertyId": null,
+                                "type": "video-shots",
+                                "dateModified": "2025-07-06T22:52:11.967",
+                                "categories": [
+                                    10208
+                                ],
+                                "categoryLabel": "शॉर्ट वीडियो",
+                                "categorySlug": "short-videos",
+                                "tags": null,
+                                "dataMap": {
+                                    "image": "1Uyt3j5.0000000.jpg",
+                                    "video_duration": "01:24",
+                                    "full_slug": "video-shots/short-videos/video-lkhamapara-khara-ma-haiitashana-lina-sa-takaraya-tajaya-bugdha-hathasa-tal-2025-07-06",
+                                    "is_premium": null,
+                                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uyt3j5.m3u8",
+                                    "title_hn": "लखीमपुर खीरी में हाईटेंशन लाइन से टकराया ताजिया, बड़ा हादसा टला",
+                                    "mute": false,
+                                    "is_native_player": true,
+                                    "synopsis": "लखीमपुर खीरी में हाईटेंशन लाइन से टकराया ताजिया, बड़ा हादसा टला",
+                                    "youtube_id": "1Uyt3j5",
+                                    "autoplay": false,
+                                    "video_type": "auw_video"
+                                },
+                                "bookmarked": false
+                            }
+                        },
+                        {
+                            "position": 4,
+                            "componentId": 111,
+                            "contentProvider": 1,
+                            "content": {
+                                "id": "686aa2a15e8f2737b6093981",
+                                "propertyId": null,
+                                "type": "video-shots",
+                                "dateModified": "2025-07-06T21:51:53.558",
+                                "categories": [
+                                    10208
+                                ],
+                                "categoryLabel": "शॉर्ट वीडियो",
+                                "categorySlug": "short-videos",
+                                "tags": null,
+                                "dataMap": {
+                                    "image": "1Uys6wR.0000000.jpg",
+                                    "video_duration": "00:26",
+                                    "full_slug": "video-shots/short-videos/video-botany-exam-organized-for-assistant-professor-college-cadre-2025-07-06",
+                                    "is_premium": null,
+                                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uys6wR.m3u8",
+                                    "title_hn": "चंडीगढ़: असिस्टेंट प्रोफेसर कॉलेज कैडर के लिए बॉटनी की परीक्षा का आयोजन",
+                                    "mute": false,
+                                    "is_native_player": true,
+                                    "synopsis": "चंडीगढ़: असिस्टेंट प्रोफेसर कॉलेज कैडर के लिए बॉटनी की परीक्षा का आयोजन",
+                                    "youtube_id": "1Uys6wR",
+                                    "autoplay": false,
+                                    "video_type": "auw_video"
+                                },
+                                "bookmarked": false
+                            }
+                        },
+                        {
+                            "position": 5,
+                            "componentId": 111,
+                            "contentProvider": 1,
+                            "content": {
+                                "id": "686aa1b2e2a50379ab0eab9d",
+                                "propertyId": null,
+                                "type": "video-shots",
+                                "dateModified": "2025-07-06T21:47:54.242",
+                                "categories": [
+                                    10208
+                                ],
+                                "categoryLabel": "शॉर्ट वीडियो",
+                                "categorySlug": "short-videos",
+                                "tags": null,
+                                "dataMap": {
+                                    "image": "1UyrYmj.0000000.jpg",
+                                    "video_duration": "01:33",
+                                    "full_slug": "video-shots/short-videos/video-cm-flying-squad-conducted-raid-in-hisar-2025-07-06",
+                                    "is_premium": null,
+                                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UyrYmj.m3u8",
+                                    "title_hn": "हिसार: एनपीके खाद में रबड़ के दाने मिलने की शिकायत पर सीएम फ्लाइंग स्कवॉयड ने की छापेमारी",
+                                    "mute": false,
+                                    "is_native_player": true,
+                                    "synopsis": "हिसार: एनपीके खाद में रबड़ के दाने मिलने की शिकायत पर सीएम फ्लाइंग स्कवॉयड ने की छापेमारी",
+                                    "youtube_id": "1UyrYmj",
+                                    "autoplay": false,
+                                    "video_type": "auw_video"
+                                },
+                                "bookmarked": false
+                            }
+                        }
+                    ],
+                    "feedTitle": null
+                },
+                "title_hn": "शॉर्ट वीडियोज",
+                "icon_image": "",
+                "feed_id": 1839
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 7,
+        "componentId": 125,
+        "contentProvider": 3,
+        "content": {
+            "id": "686acab79cce4c2ef904e86f",
+            "propertyId": null,
+            "type": "photo-gallery",
+            "dateModified": "2025-07-07T00:43:00.751",
+            "categories": [
+                10052,
+                10051
+            ],
+            "categoryLabel": "क्रिकेट न्यूज़",
+            "categorySlug": "cricket/cricket-news",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "photo-gallery/cricket/cricket-news/ind-vs-eng-2nd-test-2025-akash-deep-said-his-sister-is-suffering-from-cancer-performance-is-dedicated-to-her-2025-07-07",
+                "image": "/2025/07/07/aakasha-thapa-kael-rahal_d0cc208396d5bc8ea07cb50bfb04913e.jpeg",
+                "is_premium": false,
+                "title_hn": "IND vs ENG: 'मेरी बहन कैंसर..', मैच जिताऊ प्रदर्शन के बाद आकाश दीप का झकझोर देने वाला खुलासा; भर आएंगी आंखें",
+                "synopsis": "28 वर्षीय आकाश दीप ने इस मुकाबले में कुल 10 विकेट झटके।"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 8,
+        "componentId": 125,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b43f923c6b87b1c04b6af",
+            "propertyId": null,
+            "type": "photo-gallery",
+            "dateModified": "2025-07-07T09:20:17.161",
+            "categories": [
+                10052,
+                10051
+            ],
+            "categoryLabel": "क्रिकेट न्यूज़",
+            "categorySlug": "cricket/cricket-news",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "photo-gallery/cricket/cricket-news/ind-vs-eng-captain-shubman-gill-criticizes-duke-ball-said-there-should-be-something-in-pitches-for-bowlers-2025-07-07",
+                "image": "/2025/07/03/shabhamana-gal_ebb569391778986186e6ac5ffe269f90.jpeg",
+                "is_premium": false,
+                "title_hn": "IND vs ENG: कप्तान गिल ने ड्यूक बॉल की आलोचना की, कहा- गेंदबाजों के लिए पिचों में कुछ होना चाहिए",
+                "synopsis": "ड्यूक की गुणवत्ता भी मदद नहीं कर रही है और 30 ओवर के बाद ‘सॉफ्ट’ गेंदें टीमों को आक्रामक होने के लिए मजबूर कर रही हैं।"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 9,
+        "componentId": 118,
+        "contentProvider": 4,
+        "content": {
+            "id": "LOYALTY",
+            "propertyId": null,
+            "type": "loyalty",
+            "dateModified": "2025-05-22T15:22:19.831499",
+            "categories": [],
+            "categoryLabel": null,
+            "categorySlug": null,
+            "tags": null,
+            "dataMap": {
+                "success_event": [
+                    "SHABDKHOJ_GAME_COMPLETE",
+                    "COMPLETES_PROFILE_GENDER_AND_DOB",
+                    "COMPLETES_PROFILE_MOBILE",
+                    "QUIZ_COMPLETE"
+                ]
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 10,
+        "componentId": 104,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b44b0e7b590b9720c0ef0",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T09:35:45.675",
+            "categories": [
+                10263,
+                10210
+            ],
+            "categoryLabel": "मेरठ",
+            "categorySlug": "uttar-pradesh/meerut",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "uttar-pradesh/meerut/person-responsible-for-muharram-tazia-was-shot-in-meerut-2025-07-07",
+                "image": "/2025/07/07/meerut-murder-attempt_6225323727420add41cf68a2ebfaf357.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "UP: सरधना में मुहर्रम के ताजिये के जिम्मेदार को एलानिया गोली मारी, ताजिया जुलूस रोका; पुलिस पर भड़के लोग",
+                "synopsis": "मेरठ के सरधना के मोहल्ला ऊंचापुर निवासी कादिर बेग (50) को शुऐब उर्फ टिड्डी ने एलानिया गोली मार दी। बाएं कंधे में गोली लगी। पुलिस ने उनका सीएचसी में इलाज कराया। यहां से मेरठ के जसवंत राय अस्पताल में भर्ती कराया गया।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 11,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b150e24da5ec14b05752d",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T06:00:06.922",
+            "categories": [
+                10257,
+                10210
+            ],
+            "categoryLabel": "लखनऊ",
+            "categorySlug": "lucknow",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "lucknow/up-panchayat-elections-base-year-will-have-to-be-decided-before-reservation-proposal-will-be-sent-to-the-cab-2025-07-07",
+                "image": "/2024/10/21/panchayat-election_1730c1cbda82998e71f79d06305cc27b.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "यूपी पंचायत चुनाव: आरक्षण से पहले तय करना होगा आधार वर्ष, कैबिनेट में भेजा जाएगा प्रस्ताव; ऐसे तय होगा क्रम",
+                "synopsis": "UP Panchayat elections: यूपी पंचायत चुनाव अगले साल अप्रैल और मई में होने हैं। इन पंचायत चुनाव में आरक्षण का आधार क्या होगा इसे तय करने के लिए पहले आरक्षण का आधार वर्ष तय करना होगा।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 12,
+        "componentId": 104,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b1ec57502d934770110db",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T06:43:45.751",
+            "categories": [
+                10257,
+                10210,
+                10222
+            ],
+            "categoryLabel": "लखनऊ",
+            "categorySlug": "lucknow",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "lucknow/up-cjm-clerk-s-wife-is-a-partner-in-changur-s-property-worth-rs-16-crore-gang-had-18-members-14-still-absco-2025-07-07",
+                "image": "/2025/07/07/chhagara-ka-ghara-ka-bhara-pasara-sananata_dda66498a918812dd54740090b582257.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "यूपी: छांगुर की 16 करोड़ की प्रापर्टी में हिस्सेदार हैं सीजेएम की लिपिक की पत्नी, 18 सदस्यों का था गैंग",
+                "synopsis": "Changur arrested in UP: राष्ट्र विरोधी गतिविधियों और अवैध धर्मांतरण कराने के आरोपी जमालुद्दीन उर्फ छांगुर 18 सदस्यों का गैंग बनाकर ऑपरेट करता था। अभी उसमें 14 फरार हैं।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 13,
+        "componentId": 1,
+        "contentProvider": 4,
+        "content": {
+            "id": "WEB_STORY",
+            "propertyId": null,
+            "type": "discovery",
+            "dateModified": "2025-05-22T15:22:19.831499",
+            "categories": [],
+            "categoryLabel": null,
+            "categorySlug": null,
+            "tags": null,
+            "dataMap": {
+                "feed": {
+                    "feedId": 1924,
+                    "feedVersionId": 1924,
+                    "userId": "6741d0e7c722f07def054cc",
+                    "sessionId": "c60e11e1-d2cb-4d3f-85f6-11e3f13cda9c",
+                    "pageId": "a8244cf9-7626-4a58-841a-6fb41e2e24c2",
+                    "pageNo": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "componentId": 117,
+                            "contentProvider": 3,
+                            "content": {
+                                "id": "686b4b9e50535154dd078d4f",
+                                "propertyId": null,
+                                "type": "web-stories",
+                                "dateModified": "2025-07-07T09:53:07.23",
+                                "categories": [
+                                    10060,
+                                    10062
+                                ],
+                                "categoryLabel": "मनोरंजन",
+                                "categorySlug": "entertainment",
+                                "tags": null,
+                                "dataMap": {
+                                    "full_slug": "web-stories/entertainment/samantha-ruth-prabhu-shares-photos-in-red-saree-user-comments-2025-07-07",
+                                    "image": "/2025/07/07/samatha-ratha-parabha_bd67121f075cf054969f73bd5b4fcac8.jpeg",
+                                    "is_premium": false,
+                                    "title_hn": "रेड साड़ी में सामंथा रुथ प्रभु ने शेयर की खूबसूरत तस्वीरें",
+                                    "synopsis": "रेड साड़ी में सामंथा रुथ प्रभु ने शेयर की खूबसूरत तस्वीरें"
+                                },
+                                "bookmarked": false
+                            }
+                        },
+                        {
+                            "position": 2,
+                            "componentId": 117,
+                            "contentProvider": 1,
+                            "content": {
+                                "id": "686b3bf9177417af30066acd",
+                                "propertyId": null,
+                                "type": "web-stories",
+                                "dateModified": "2025-07-07T08:46:19.267",
+                                "categories": [
+                                    10060,
+                                    10062
+                                ],
+                                "categoryLabel": "मनोरंजन",
+                                "categorySlug": "entertainment",
+                                "tags": null,
+                                "dataMap": {
+                                    "full_slug": "web-stories/entertainment/metro-in-dino-box-office-collection-day-3-and-weekend-collection-2025-07-07",
+                                    "image": "/2025/07/07/matara-ina-thana_427b63ed694d69731f64d7bcba031d4f.jpeg",
+                                    "is_premium": false,
+                                    "title_hn": "वीकएंड पर बढ़ी 'मेट्रो इन दिनों' की रफ्तार, जानें अब तक का टोटल कलेक्शन",
+                                    "synopsis": "वीकएंड पर बढ़ी 'मेट्रो इन दिनों' की रफ्तार, जानें अब तक का टोटल कलेक्शन"
+                                },
+                                "bookmarked": false
+                            }
+                        },
+                        {
+                            "position": 3,
+                            "componentId": 117,
+                            "contentProvider": 1,
+                            "content": {
+                                "id": "686a7d63a61d66e6db05247d",
+                                "propertyId": null,
+                                "type": "web-stories",
+                                "dateModified": "2025-07-07T08:39:15.207",
+                                "categories": [
+                                    10209
+                                ],
+                                "categoryLabel": "जरूरत की खबर",
+                                "categorySlug": "utility",
+                                "tags": null,
+                                "dataMap": {
+                                    "full_slug": "web-stories/utility/indian-railways-rules-what-is-the-age-limit-for-children-to-travel-free-in-trains-2025-07-06",
+                                    "image": "/2025/01/23/indian-railways_b482ba4d475502da52763a4f43de6785.jpeg",
+                                    "is_premium": false,
+                                    "title_hn": "ट्रेन में इतने साल तक के बच्चे कर सकते हैं फ्री में सफर",
+                                    "synopsis": "ट्रेन में इतने साल तक के बचे कर सकते हैं फ्री में सफर"
+                                },
+                                "bookmarked": false
+                            }
+                        },
+                        {
+                            "position": 4,
+                            "componentId": 117,
+                            "contentProvider": 1,
+                            "content": {
+                                "id": "686a7b562eae385644014ed4",
+                                "propertyId": null,
+                                "type": "web-stories",
+                                "dateModified": "2025-07-07T08:00:02.729",
+                                "categories": [
+                                    10112,
+                                    10110
+                                ],
+                                "categoryLabel": "हेल्थ एंड फिटनेस",
+                                "categorySlug": "lifestyle/fitness",
+                                "tags": null,
+                                "dataMap": {
+                                    "full_slug": "web-stories/lifestyle/fitness/home-remedies-for-stomach-pain-know-pet-dard-me-kaun-se-upay-karen-2025-07-06",
+                                    "image": "/2025/05/01/stomach-uti_8f00e186b44ecfa6cf609df245013968.jpeg",
+                                    "is_premium": false,
+                                    "title_hn": "पेट दर्द से रहते हैं परेशान? करें ये उपाय",
+                                    "synopsis": "पेट में दर्द होना बहुत आम समस्या है। आहार और लाइफस्टाइल में गड़बड़ी से ये दिक्कत हो सकती है।"
+                                },
+                                "bookmarked": false
+                            }
+                        },
+                        {
+                            "position": 5,
+                            "componentId": 117,
+                            "contentProvider": 1,
+                            "content": {
+                                "id": "686ab3b74879d730190565aa",
+                                "propertyId": null,
+                                "type": "web-stories",
+                                "dateModified": "2025-07-06T23:40:47.272",
+                                "categories": [
+                                    10062,
+                                    10060
+                                ],
+                                "categoryLabel": "बॉलीवुड",
+                                "categorySlug": "entertainment/bollywood",
+                                "tags": null,
+                                "dataMap": {
+                                    "full_slug": "web-stories/entertainment/bollywood/photos-of-the-day-bhumi-pednekar-avneet-kaur-mrunal-thakur-kriti-sanon-bhagyashree-ankita-lokhande-2025-07-06",
+                                    "image": "/2025/07/06/fataja-oifa-tha-da_29544d409f7497c67059040cde7f4378.jpeg",
+                                    "is_premium": false,
+                                    "title_hn": "भूमि पेडनेकर और कृति सेनन का शानदार लुक, फैंस ने लुटाया प्यार",
+                                    "synopsis": "भूमि पेडनेकर और कृति सेनन का शानदार लुक, फैंस ने लुटाया प्यार"
+                                },
+                                "bookmarked": false
+                            }
+                        }
+                    ],
+                    "feedTitle": null
+                },
+                "title_hn": "वेब स्टोरी",
+                "icon_image": "",
+                "feed_id": 1924
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 14,
+        "componentId": 108,
+        "contentProvider": 3,
+        "content": {
+            "id": "686adb77c0fdbd245304db5b",
+            "propertyId": null,
+            "type": "video",
+            "dateModified": "2025-07-07T01:54:23.354",
+            "categories": [
+                10081
+            ],
+            "categoryLabel": "देश",
+            "categorySlug": "india-news",
+            "tags": null,
+            "dataMap": {
+                "image": "/2025/07/07/ujjain-muharram-video_95804be39fb1b8b2a0dc45da9ea7a778.jpeg",
+                "video_duration": "",
+                "full_slug": "video/india-news/ujjain-muharram-chaos-in-ujjain-during-procession-case-registered-against-16-tried-to-break-barricade-2025-07-07",
+                "is_premium": false,
+                "video_url": "www.youtube.com/embed/kPDw2SSevOU",
+                "title_hn": "Ujjain Muharram Video: जुलूस के समय उज्जैन में बवाल, 16 के खिलाफ केस दर्ज; देखें हुड़दंग का वीडियो",
+                "mute": false,
+                "is_native_player": false,
+                "synopsis": "Ujjain Muharram: जुलूस के समय उज्जैन में बवाल, 16 के खिलाफ केस दर्ज; बैरिकेड तोड़ने की कोशिश की",
+                "youtube_id": "kPDw2SSevOU",
+                "autoplay": false,
+                "video_type": "youtube"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 15,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686afc2bb54658e158059557",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T04:15:23.48",
+            "categories": [
+                10381,
+                10380
+            ],
+            "categoryLabel": "दिल्ली-एनसीआर",
+            "categorySlug": "delhi-ncr",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "delhi-ncr/weather-clouds-burst-again-in-himachal-s-chamba-and-mandi-alaknanda-in-spate-in-rudraprayag-2025-07-07",
+                "image": "/2025/06/26/kullu-cloud-burst-video-bthal-fatana-sa-aaii-bugdhha-himachal-pradesh-ma-thakha-katharata-ka-kahara-flood-news_edb64c6674b44b7f776d8c6ab54ed296.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Weather Woes : हिमाचल के चंबा और मंडी में फिर फटे बादल, बाढ़ से तबाही; रुद्रप्रयाग में उफान पर अलकनंदा",
+                "synopsis": "हिमाचल प्रदेश के मंडी और चंबा जिले में फिर बादल फटने से 50 बीघा जमीन और पांच पुल बह गए।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 16,
+        "componentId": 104,
+        "contentProvider": 3,
+        "content": {
+            "id": "686ac4684cdf90727307f3e3",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T00:16:07.262",
+            "categories": [
+                10311,
+                10325
+            ],
+            "categoryLabel": "मध्य प्रदेश",
+            "categorySlug": "madhya-pradesh",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "madhya-pradesh/ujjain-muharram-chaos-procession-mp-police-registers-case-fanatics-tried-to-break-barricades-hindi-news-update-2025-07-07",
+                "image": "/2025/07/07/ujjain-muharram_014e3210607d5186588261991334a004.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Ujjain Muharram: जुलूस के समय उज्जैन में बवाल, 16 के खिलाफ केस दर्ज; उन्मादियों ने बैरिकेड तोड़ने की कोशिश की",
+                "synopsis": "Ujjain Muharram: जुलूस के समय उज्जैन में बवाल, 16 के खिलाफ केस दर्ज; उन्मादियों ने बैरिकेड तोड़ने की कोशिश की",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 17,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686acd90627b1f6a470830ad",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T00:55:04.902",
+            "categories": [
+                10385,
+                10380
+            ],
+            "categoryLabel": "फरीदाबाद",
+            "categorySlug": "delhi-ncr/faridabad",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "delhi-ncr/faridabad/the-mla-gave-instructions-to-remove-the-encroachment-faridabad-news-c-26-1-fbd1020-46666-2025-07-07",
+                "image": "/2021/12/03/original/faridabad_1638533837.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": null,
+                "title_hn": "Faridabad News: विधायक ने कब्जे हटाने के दिए निर्देश",
+                "synopsis": "The MLA gave instructions to remove the encroachment",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 18,
+        "componentId": 104,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b2c8515061eecb40eb4ab",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T08:20:10.304",
+            "categories": [
+                10285,
+                10282,
+                10287
+            ],
+            "categoryLabel": "चमोली",
+            "categorySlug": "uttarakhand/chamoli",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "dehradun/badrinath-highway-debris-fell-from-hill-near-umta-frequent-obstructions-uttarakhand-weather-update-heavy-rain-2025-07-07",
+                "image": "/2025/07/07/badrinath-highway_699b9b3198b953beaec85cbdd996c300.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Chamoli: बदरीनाथ हाईवे पर फिर बाधित, उमटा के पास पहाड़ी से आया भारी मलबा, एक सप्ताह से बंद हिमनी-बलाण सड़क",
+                "synopsis": "कर्णप्रयाग में सुबह से तेज बारिश का सिलसिला जारी है। बदरीनाथ नेशनल हाईवे उमटा के पास पहाड़ी से मलबा आने से फिर बाधित हो गया है।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 19,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b111ca3d9cecd090a322a",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T05:43:25.209",
+            "categories": [
+                10197
+            ],
+            "categoryLabel": "दुनिया",
+            "categorySlug": "world",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "world/brics-countries-united-for-un-wto-reforms-emphasis-on-giving-a-bigger-role-to-india-and-brazil-2025-07-07",
+                "image": "/2025/07/06/brics_ac350beb8c5c3ad19be55cbe8a222ce5.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "BRICS: संयुक्त राष्ट्र-WTO में सुधार का समर्थन, ब्रिक्स देश एकजुट; भारत और ब्राजील को बड़ी भूमिका देने पर जोर",
+                "synopsis": "BRICS: संयुक्त राष्ट्र-WTO में सुधार का समर्थन, ब्रिक्स देश एकजुट; भारत और ब्राजील को बड़ी भूमिका देने पर जोर, BRICS countries united for UN-WTO reforms Emphasis on giving a bigger role to India and Brazil",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 20,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686ad521a49cdfaded0dd682",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T07:11:10.573",
+            "categories": [
+                10381,
+                10380
+            ],
+            "categoryLabel": "दिल्ली-एनसीआर",
+            "categorySlug": "delhi-ncr",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "delhi-ncr/weather-monsoon-gains-speed-in-delhi-ncr-heavy-rain-2025-07-07",
+                "image": "/2025/07/07/1_e04a7e0bb92f82fe6c5cf3b1bfa1d2b8.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Weather: दिल्ली-एनसीआर में मानसून ने पकड़ी रफ्तार, रात भर से चल रही रुक-रुक कर बारिश, पूरे सप्ताह बरसेंगे बादल",
+                "synopsis": "दिल्ली एनसीआर में मानसूर रफ्तार पकड़ रहा है।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 1,
+        "componentId": 104,
+        "contentProvider": 4,
+        "content": {
+            "id": "686b196bf546765b6709210c",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T06:18:49.685",
+            "categories": [
+                10081
+            ],
+            "categoryLabel": "देश",
+            "categorySlug": "india-news",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "india-news/top-headline-today-important-and-big-news-stories-of-07-july-2025-updates-on-amar-ujala-2025-07-07",
+                "image": "/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Top News: हिमाचल और US के टेक्सास में बाढ़; BRICS के मंच से पहलगाम हमले की निंदा; मुहर्रम पर MP-बिहार में तनाव",
+                "synopsis": "Top News: हिमाचल और US के टेक्सास में बाढ़; BRICS के मंच से पहलगाम हमले की निंदा; मुहर्रम पर MP-बिहार में तनाव\r\n\r\nTop Headline Today Important And Big News Stories Of 07 July 2025 Updates on amar ujala",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 2,
+        "componentId": 104,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b3597a672cdce490ea586",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T08:24:04.254",
+            "categories": [
+                10252,
+                10210
+            ],
+            "categoryLabel": "कानपुर",
+            "categorySlug": "uttar-pradesh/kanpur",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "uttar-pradesh/kanpur/up-girl-suicide-by-writing-gulshan-i-miss-you-words-on-her-palm-box-of-vermilion-was-found-on-roof-in-kanpur-2025-07-07",
+                "image": "/2025/07/07/kanpur-suicide_df948b85bcd681f1064a8c9962ed3d5b.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "UP: 'गुलशन आई मिस यू...', 12वीं की छात्रा ने हथेली पर ये शब्द लिखकर दी जान; छत पर मिली इस सामान की डिब्बी",
+                "synopsis": "बाईं हथेली पर गुलशन आई मिस यू... लिखकर शनिवार रात 12वीं की छात्रा ने फंदा लगाकर जान दे दी। मां खाना खाने के लिए बुलाने कमरे में पहुंची तो उसे फंदे पर लटकता देखकर चीख निकल गई। घटना कानपुर के गोविंदनगर थाना इलाके की है।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 3,
+        "componentId": 104,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b3803feda833bcb0de963",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T08:30:03.985",
+            "categories": [
+                10211,
+                10210
+            ],
+            "categoryLabel": "आगरा",
+            "categorySlug": "uttar-pradesh/agra",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "uttar-pradesh/agra/11-lakh-rupees-extorted-from-family-by-pretending-to-do-tantra-mantra-2025-07-07",
+                "image": "/2024/11/19/tataraka-tatara-matara_9fc3e74c0011988b0a1346a955c80841.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "तांत्रिक का कारनामा: श्मशान के पास कराई पूजा...11 लाख रुपये हड़पे, फिर भी न बची बेटी की जान; अब दिखा रहा ये डर",
+                "synopsis": "तांत्रिक पूजा के नाम पर परिवार से रुपये लेता रहा। इधर जनवरी 2025 में बीमारी के कारण किशोरी की माैत हो गई।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 4,
+        "componentId": 101,
+        "contentProvider": 4,
+        "content": {
+            "id": "686b134ce1eaef302d0a29d8",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T05:52:44.281",
+            "categories": [
+                10197
+            ],
+            "categoryLabel": "दुनिया",
+            "categorySlug": "world",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "world/brics-pm-modi-on-artificial-intelligence-strengthening-multilateralism-economic-financial-affairs-2025-07-07",
+                "image": "/2025/07/07/brakasa-samamalna-ka-tharana-paema-narathara-matha_bead10c9c0149bb5ac0bb503cbc605fc.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Artificial Intelligence: ब्रिक्स में एआई पर चर्चा, पीएम बोले- अगले साल भारत में AI इम्पैक्ट समिट; नसीहत भी दी",
+                "synopsis": "Artificial Intelligence: ब्रिक्स में एआई पर चर्चा, पीएम बोले- अगले साल भारत में AI इम्पैक्ट समिट; नसीहत भी दी\r\nBRICS PM Modi on Artificial Intelligence Strengthening Multilateralism Economic-Financial Affairs",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 5,
+        "componentId": 125,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b478d0fb46d8ad2006cb5",
+            "propertyId": null,
+            "type": "photo-gallery",
+            "dateModified": "2025-07-07T09:36:01.225",
+            "categories": [
+                10209
+            ],
+            "categoryLabel": "जरूरत की खबर",
+            "categorySlug": "utility",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "photo-gallery/utility/pm-kisan-yojana-20th-installment-date-likely-on-july-18-pm-kisan-samman-yojana-latest-update-2025-07-07",
+                "image": "/2025/02/27/rupees-rapaya-money_4800669c887977fb77d5665761d84c35.jpeg",
+                "is_premium": false,
+                "title_hn": "PM Kisan Yojana क्या 18 जुलाई को जारी हो सकती है 20वीं किस्त? किसान यहां जानें क्यों कहा जा रहा है ऐसा",
+                "synopsis": "अगर आप पीएम किसान योजना से जुड़े हैं और आपको भी 20वीं किस्त का इंतजार है, तो जान लें कि अब चर्चा 18 जुलाई की हो रही है। माना जा रहा है कि 20वीं किस्त इस दिन जारी हो सकती है।"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 6,
+        "componentId": 126,
+        "contentProvider": 3,
+        "content": {
+            "id": "686ac52a04bff90bef0e4b07",
+            "propertyId": null,
+            "type": "photo-gallery",
+            "dateModified": "2025-07-07T06:13:51.816",
+            "categories": [
+                10062,
+                10060
+            ],
+            "categoryLabel": "बॉलीवुड",
+            "categorySlug": "entertainment/bollywood",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "photo-gallery/entertainment/bollywood/film-bichhoo-completes-25-years-of-its-release-directed-by-guddu-dhanoa-bobby-deol-rani-mukerji-2025-07-07",
+                "image": "/2025/07/07/falma-bcachha_56cb4207106a28de511191a4797a2311.jpeg",
+                "is_premium": false,
+                "title_hn": "Bichhoo: फिल्म बिच्छू की आज है सिल्वर जुबली, जानिए बॉबी देओल और रानी मुखर्जी की फिल्म से जुड़े दिलचस्प किस्से",
+                "synopsis": "बिच्छू 2000 में रिलीज हुई एक एक्शन थ्रिलर फिल्म है, जिसका निर्देशन और निर्माण गुड्डू धनोआ ने किया था। आज फिल्म कि सिल्वर जुबली है, आइए जानते हैं फिल्म से जुड़े दिलचस्प किस्से..."
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 7,
+        "componentId": 126,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b22ab159213f8820bdc63",
+            "propertyId": null,
+            "type": "photo-gallery",
+            "dateModified": "2025-07-07T06:58:22.038",
+            "categories": [
+                10060,
+                10062
+            ],
+            "categoryLabel": "मनोरंजन",
+            "categorySlug": "entertainment",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "photo-gallery/entertainment/metro-in-dino-vs-jurassic-world-rebirth-box-office-collection-on-sunday-2025-07-07",
+                "image": "/2025/07/07/matara-ina-thana-jarasaka-paraka-ra-bratha_27eb261756f89e0dc89c25694efdfc7e.jpeg",
+                "is_premium": false,
+                "title_hn": "Box Office: 'मेट्रो इन दिनों' ने वीकएंड पर किया कमाल, जानें बाकी फिल्मों का बॉक्स ऑफिस कलेक्शन",
+                "synopsis": "रविवार का दिन फिल्मों के लिए शानदार रहा। बॉलीवुड से लेकर हॉलीवुड तक सभी फिल्मों ने बॉक्स ऑफिस पर अच्छी कमाई की।"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 8,
+        "componentId": 104,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b1b168ebed8998e0072fb",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-07T06:25:50.032",
+            "categories": [
+                10257,
+                10210
+            ],
+            "categoryLabel": "लखनऊ",
+            "categorySlug": "lucknow",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "lucknow/up-due-to-monsoon-halt-in-orissa-clouds-have-left-these-areas-of-the-state-but-alert-of-heavy-rain-has-bee-2025-07-07",
+                "image": "/2025/07/06/rain_ec5747a2ba9181ed1a741e3ce48dc9c8.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "यूपी: ओडिशा में मानसून ठहरने से प्रदेश के इन इलाकों से रूठे बादल, पश्चिम के 16 जिलों में भारी बारिश का अलर्ट",
+                "synopsis": "Monsoon IN UP: यूपी के पूर्वी जिलों में कुछ दिनों तक मानसूनी में नरमी दिखेगी। दूसरी ओर पश्चिम यूपी के कई जिलों में आज भारी बारिश का अलर्ट है।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 9,
+        "componentId": 125,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b4968e7b590b9720c0efb",
+            "propertyId": null,
+            "type": "photo-gallery",
+            "dateModified": "2025-07-07T09:43:28.783",
+            "categories": [
+                10052,
+                10051
+            ],
+            "categoryLabel": "क्रिकेट न्यूज़",
+            "categorySlug": "cricket/cricket-news",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "photo-gallery/cricket/cricket-news/ind-vs-eng-captain-shubman-gill-praised-siraj-and-akash-deep-said-when-2-of-your-bowlers-take-17-wickets-2025-07-07",
+                "image": "/2025/07/03/ind_335a9c13e83d5f263640e6f56035dbfa.jpeg",
+                "is_premium": false,
+                "title_hn": "IND vs ENG: कप्तान गिल ने सिराज-आकाश दीप की तारीफ में पढ़े कसीदे, बोले- जब आपके दो गेंदबाज 17 विकेट लें तो...",
+                "synopsis": "गिल ने चेतेश्वर पुजारा के साथ बातचीत में कहा, 'जब आपके दो तेज गेंदबाज 17 विकेट लेते हैं तो कप्तान के लिए यह आसान हो जाता है। बुमराह भाई इस मैच में नहीं थे लेकिन टीम में हमारे पास जो गेंदबाज हैं वे एक मैच में 20 विकेट लेने में सक्षम हैं।'"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 10,
+        "componentId": 125,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b1d9e6ab694729408a0a0",
+            "propertyId": null,
+            "type": "photo-gallery",
+            "dateModified": "2025-07-07T06:54:19.618",
+            "categories": [
+                10225,
+                10210
+            ],
+            "categoryLabel": "बरेली",
+            "categorySlug": "uttar-pradesh/bareilly",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "photo-gallery/uttar-pradesh/bareilly/three-accused-including-woman-arrested-for-raising-slogans-in-support-of-pakistan-in-bareilly-2025-07-07",
+                "image": "/2025/07/07/faridpur-case_5b350efeafcb4d032f4d140601b20550.jpeg",
+                "is_premium": false,
+                "title_hn": "ताजिया रखने के दौरान तोड़फोड़: पाकिस्तान के समर्थन में लगाए नारे, महिला समेत तीन गिरफ्तार; पढ़ें पूरा घटनाक्रम",
+                "synopsis": "पुलिस के सामने बाजार लूटने की दी थी धमकी, विरोध में व्यापारियों ने किया था प्रदर्शन"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 11,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b2227812a2f0aef089d5b",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T06:56:07.957",
+            "categories": [
+                10081
+            ],
+            "categoryLabel": "देश",
+            "categorySlug": "india-news",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "india-news/controllers-conference-2025-in-delhi-updates-defence-minister-rajnath-singh-address-hindi-news-2025-07-07",
+                "image": "/2025/07/07/defence-minister-rajnath-singh_f7634b3d8b3405798473fcc811673ae3.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Controllers Conference: राजनाथ सिंह आज करेंगे नियंत्रक सम्मलेन का उद्घाटन, रक्षा वित्त सुधारों पर होगा मंथन",
+                "synopsis": "Controllers Conference: राजनाथ सिंह आज करेंगे नियंत्रक सम्मलेन का उद्घाटन, रक्षा वित्त सुधारों पर होगा मंथन, Controllers conference 2025 in delhi updates defence minister rajnath singh address hindi news",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 12,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b1c703f47a9ba2b0904b9",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T06:31:46.318",
+            "categories": [
+                10197
+            ],
+            "categoryLabel": "दुनिया",
+            "categorySlug": "world",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "world/brics-declaration-we-welcome-india-s-candidacy-to-host-cop-33-in-2028-news-in-hindi-2025-07-07",
+                "image": "/2025/07/07/brakasa-samamalna-2025_b6287aca2424ec3a417b8e25c5525cb8.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "BRICS Summit: ब्रिक्स सम्मेलन में भारत को COP-33 की मेजबानी के लिए मिला समर्थन, जलवायु संकट पर साझा संकल्प",
+                "synopsis": "BRICS Summit: ब्रिक्स सम्मेलन में भारत को COP-33 की मेजबानी के लिए मिला समर्थन, जलवायु संकट पर साझा संकल्प, BRICS declaration We welcome India's Candidacy to host COP 33 in 2028 News In Hindi",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 13,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b17a8710a11797c0db508",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T06:11:18.721",
+            "categories": [
+                10197
+            ],
+            "categoryLabel": "दुनिया",
+            "categorySlug": "world",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "world/elon-musk-announcement-of-forming-a-new-party-trump-said-it-was-a-stupid-step-also-hinted-at-gaza-iran-deal-2025-07-07",
+                "image": "/2025/06/23/danalda-tarapa-rashhatarapata-amaraka_c0aa91780b275a377b10af7f09f50a01.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Donald Trump: मस्क की 'नई पार्टी' पर भड़के ट्रंप, बताया- बेवकूफी; गाजा सीजफायर व ईरान से डील पर भी की टिप्पणी",
+                "synopsis": "US: मस्क की नई पार्टी बनाने के एलान पर भड़के ट्रंप, बोले- बेवकूफी भरा कदम; गाजा-ईरान डील पर भी दिए बड़े संकेत, Elon Musk announcement of forming a new party Trump said it was a stupid step also hinted at Gaza Iran deal",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 14,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b2abc41385ad089063a9c",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T07:32:43.66",
+            "categories": [
+                10081
+            ],
+            "categoryLabel": "देश",
+            "categorySlug": "india-news",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "india-news/puducherry-igmc-autopsy-report-on-tb-treatment-delay-health-ministry-tuberculosis-2025-07-07",
+                "image": "/2024/06/15/tuberculosis_fdcb93cb9fc9b97b96f904ed905a9fbd.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "खुलासा: इलाज में देरी पर टीबी जानलेवा, पुडुचेरी के IGMC ने केंद्र को सौंपी मौखिक शव परीक्षण रिपोर्ट",
+                "synopsis": "खुलासा: इलाज में देरी पर टीबी जानलेवा, पुडुचेरी के IGMC ने केंद्र को सौंपी मौखिक शव परीक्षण रिपोर्ट\r\nPuducherry IGMC autopsy report on TB treatment delay health ministry  Tuberculosis",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 15,
+        "componentId": 126,
+        "contentProvider": 3,
+        "content": {
+            "id": "686a744bb88dfd5b1e0a6911",
+            "propertyId": null,
+            "type": "photo-gallery",
+            "dateModified": "2025-07-07T06:14:00.762",
+            "categories": [
+                10060
+            ],
+            "categoryLabel": "मनोरंजन",
+            "categorySlug": "entertainment",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "photo-gallery/entertainment/aap-jaisa-koi-narivetta-special-ops-2-moonwalk-these-movie-and-series-will-release-on-ott-this-week-2025-07-06",
+                "image": "/2025/07/06/ott-this-week_03458eb3cef0499ac1803de5c52465c4.jpeg",
+                "is_premium": false,
+                "title_hn": "OTT This Week: 'आप जैसा कोई' से 'स्पेशल ऑप्स 2' तक, इस हफ्ते OTT पर मनोरंजन का छौंका लगाएंगी ये फिल्में-सीरीज",
+                "synopsis": "OTT Release This Week: सिनेमाघरों में बड़े-बड़े सितारों की फिल्में लगी हुई हैं। मगर, घर बैठे ओटीटी पर फिल्में देखने के शौकीन के लिए डिजिटल प्लेटफॉर्म पर भी ढेरों ऑप्शन हैं। इस हफ्ते ये फिल्में और सीरीज दस्तक देने वाली हैं।"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 16,
+        "componentId": 113,
+        "contentProvider": 3,
+        "content": {
+            "id": "686afaf61e61e966050d3573",
+            "propertyId": null,
+            "type": "live",
+            "dateModified": "2025-07-07T09:53:55.448",
+            "categories": [
+                10197
+            ],
+            "categoryLabel": "दुनिया",
+            "categorySlug": "world",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "live/world/pm-modi-in-brazil-live-updates-rio-de-janeiro-brics-bilateral-meetings-jaishankar-lavarov-hindi-news-2025-07-07",
+                "image": "/2025/07/07/brics_8a97f5a89a7120e05aaac5a6f2c7ffcf.jpeg",
+                "is_premium": false,
+                "title_hn": "PM Modi In Brazil: ब्रिक्स सम्मेलन से इतर कई अहम द्विपक्षीय बैठकें, पीएम और जयशंकर ने इन नेताओं से की मुलाकात",
+                "synopsis": "PM Modi In Brazil: ब्रिक्स सम्मेलन से इतर कई द्विपक्षीय अहम बैठकें, पीएम और जयशंकर ने इन नेताओं से की मुलाकात"
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 17,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "6869ffe902fc3abe890a5f8e",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-06T22:50:23.678",
+            "categories": [
+                10088,
+                10087
+            ],
+            "categoryLabel": "आज का शब्द",
+            "categorySlug": "kavya/shabd-sangrah",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "kavya/shabd-sangrah/aaj-ka-shabd-athach-suryakant-tripathi-nirala-hindi-kavita-sach-hai-2025-07-06",
+                "image": "/2025/07/06/aaj-ka-shabd_674846629b30e59e772ff109f815b152.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "आज का शब्द: अथच और सूर्यकांत त्रिपाठी निराला की कविता 'सच है'",
+                "synopsis": "aaj ka shabd athach suryakant tripathi nirala hindi kavita sach hai\r\nआज का शब्द: अथच और सूर्यकांत त्रिपाठी निराला की कविता 'सच है'",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 18,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686a426437d53529aa0a8630",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T06:02:19.974",
+            "categories": [
+                10017,
+                10011
+            ],
+            "categoryLabel": "बोले तारे",
+            "categorySlug": "astrology/predictions",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "astrology/predictions/aaj-ka-rashifal-daily-horoscope-prediction-7-july-2025-mesh-kark-singh-kanya-kumbh-makar-meen-2025-07-06",
+                "image": "/2025/07/06/daily-rashifal_637fb3b4d1f49e92b13969fc67b7d207.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Aaj Ka Rashifa 7 July: वृषभ और तुला राशि वालों को नौकरी-व्यापार में मिल सकती है बड़ी सफलता, पढ़ें दैनिक राशिफल",
+                "synopsis": "7 July Rashifal: आचार्य मानस शर्मा से जानिए चंद्र राशि पर आधारित मेष, वृषभ, मिथुन, कर्क, सिंह, कन्या, तुला, वृश्चिक, धनु, मकर, कुंभ और मीन राशि वालों के लिए 7 जुलाई 2025 का राशिफल।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 19,
+        "componentId": 101,
+        "contentProvider": 3,
+        "content": {
+            "id": "686b283a845d314f470ba0d8",
+            "propertyId": null,
+            "type": "story",
+            "dateModified": "2025-07-07T07:22:01.104",
+            "categories": [
+                10081
+            ],
+            "categoryLabel": "देश",
+            "categorySlug": "india-news",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "india-news/with-every-one-degree-celsius-increase-in-global-temperature-average-of-120-calories-removed-from-plate-2025-07-07",
+                "image": "/2024/04/19/jalvaya-paravaratana_e2b67b8c535c53058c5ed473ad66035c.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "Global Warming: एक डिग्री तापमान बढ़ते ही थाली से घट जाएगी 120 कैलोरी, प्रमुख फसलों का पोषण 24% घटने की आशंका",
+                "synopsis": "Global Warming: एक डिग्री तापमान बढ़ते ही थाली से घट जाएगी 120 कैलोरी, प्रमुख फसलों का पोषण 24% घटने की आशंका With every one degree Celsius increase in global temperature average of 120 calories removed from plate",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+        "position": 20,
+        "componentId": 104,
+        "contentProvider": 3,
+        "content": {
+            "id": "686aad14ab27fc4a72086622",
+            "propertyId": null,
+            "type": "feature-story",
+            "dateModified": "2025-07-06T22:36:49.539",
+            "categories": [
+                10052,
+                10051
+            ],
+            "categoryLabel": "क्रिकेट न्यूज़",
+            "categorySlug": "cricket/cricket-news",
+            "tags": null,
+            "dataMap": {
+                "full_slug": "cricket/cricket-news/shubman-gill-becomes-the-youngest-indian-captain-to-win-a-test-overseas-surpass-sunil-gavaskar-ind-vs-eng-2025-07-06",
+                "image": "/2025/07/03/ind-vs-eng-2nd-test-shubman-gill-second-indian-captain-to-score-a-century-at-edgbaston-joins-th_2f244aec187dbe6fc50b85199ff753b3.jpeg",
+                "custom_attribute_value": null,
+                "is_premium": false,
+                "title_hn": "IND vs ENG: विदेश में टेस्ट जीतने वाले भारत के सबसे युवा कप्तान बने गिल, गावस्कर का 49 साल पुराना रिकॉर्ड टूटा",
+                "synopsis": "गिल को रोहित शर्मा की जगह टेस्ट टीम का कप्तान नियुक्त किया गया था। भारत को लीड्स में खेले गए पहले टेस्ट मैच में हार का सामना करना पड़ा था।",
+                "custom_attribute": null
+            },
+            "bookmarked": false
+        }
+    },
+    {
+            "position": 1,
+            "componentId": 108,
+            "contentProvider": 3,
+            "content": {
+                "id": "686a772c2304dd41f90bf5ee",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T18:46:28.821",
+                "categories": [
+                    10287,
+                    10282
+                ],
+                "categoryLabel": "देहरादून",
+                "categorySlug": "dehradun",
+                "tags": null,
+                "dataMap": {
+                    "image": "1Uyp700.0000000.jpg",
+                    "video_duration": "03:30",
+                    "full_slug": "video/dehradun/video-dalai-lama-birthday-tourism-minister-satpal-maharaj-participated-in-program-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uyp700.m3u8",
+                    "title_hn": "दलाई लामा के जन्मदिन पर कार्यक्रम का आयोजन, पर्यटन मंत्री सतपाल महाराज हुए सम्मिलित",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "दलाई लामा के जन्मदिन पर कार्यक्रम का आयोजन, पर्यटन मंत्री सतपाल महाराज हुए सम्मिलित",
+                    "youtube_id": "1Uyp700",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 2,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a71fe4113e602500ec919",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T18:24:22.651",
+                "categories": [
+                    10266,
+                    10210
+                ],
+                "categoryLabel": "मुजफ्फरनगर",
+                "categorySlug": "uttar-pradesh/muzaffarnagar",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UynPC8.0000000.jpg",
+                    "video_duration": "02:23",
+                    "full_slug": "video/uttar-pradesh/muzaffarnagar/video-muzaffarnagar-yashveer-maharaj-said-do-not-buy-kanwar-from-jihadi-gang-in-haridwar-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UynPC8.m3u8",
+                    "title_hn": "मुजफ्फरनगर:  यशवीर महाराज बोले, हरिद्वार में जेहादी गैंग से न खरीदें कांवड़",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "मुजफ्फरनगर:  यशवीर महाराज बोले, हरिद्वार में जेहादी गैंग से न खरीदें कांवड़",
+                    "youtube_id": "1UynPC8",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 3,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a70e4d1a62aa2af077d8c",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T18:19:40.822",
+                "categories": [
+                    10212,
+                    10210
+                ],
+                "categoryLabel": "अलीगढ़",
+                "categorySlug": "uttar-pradesh/aligarh",
+                "tags": null,
+                "dataMap": {
+                    "image": "1Uyoxw8.0000000.jpg",
+                    "video_duration": "00:53",
+                    "full_slug": "video/uttar-pradesh/aligarh/video-algaugdhha-ma-mahararama-jalsa-ka-tharana-tajaya-haiitashana-lina-sa-takaraya-karata-sa-eka-ka-mata-tha-ghayal-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uyoxw8.m3u8",
+                    "title_hn": "अलीगढ़ में मुहर्रम जुलूस के दौरान ताजिया हाईटेंशन लाइन से टकराया, करंट से एक की मौत, दो घायल",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "अलीगढ़ में मुहर्रम जुलूस के दौरान ताजिया हाईटेंशन लाइन से टकराया, करंट से एक की मौत, दो घायल",
+                    "youtube_id": "1Uyoxw8",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 4,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a6d31a4c08aae60052bec",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T18:03:53.491",
+                "categories": [
+                    10346,
+                    10340
+                ],
+                "categoryLabel": "झज्जर/बहादुरगढ़",
+                "categorySlug": "haryana/jhajjar-bahadurgarh",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UyouH5.0000000.jpg",
+                    "video_duration": "01:02",
+                    "full_slug": "video/haryana/jhajjar-bahadurgarh/video-bjp-office-inaugurated-in-jhajjar-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UyouH5.m3u8",
+                    "title_hn": "झज्जर में बीजेपी कार्यालय का हुआ उद्घाटन, कृषि मंत्री रहे मौजूद",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "झज्जर में बीजेपी कार्यालय का हुआ उद्घाटन, कृषि मंत्री रहे मौजूद",
+                    "youtube_id": "1UyouH5",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 5,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a67dbd3e91088480aafa3",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T17:41:07.171",
+                "categories": [
+                    10265,
+                    10210
+                ],
+                "categoryLabel": "मुरादाबाद",
+                "categorySlug": "uttar-pradesh/moradabad",
+                "tags": null,
+                "dataMap": {
+                    "image": "1Uyo9o10.0000000.jpg",
+                    "video_duration": "02:23",
+                    "full_slug": "video/uttar-pradesh/moradabad/video-rotary-club-moradabad-distributed-food-at-the-district-hospital-gate-service-work-continues-every-saturday-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uyo9o10.m3u8",
+                    "title_hn": "रोटरी क्लब मुरादाबाद ने जिला अस्पताल गेट पर कराया भोजन वितरण, हर शनिवार को चलता है सेवा कार्य",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "रोटरी क्लब मुरादाबाद ने जिला अस्पताल गेट पर कराया भोजन वितरण, हर शनिवार को चलता है सेवा कार्य",
+                    "youtube_id": "1Uyo9o10",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 6,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a651f366c3b98720f978e",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T17:29:27.393",
+                "categories": [
+                    10360
+                ],
+                "categoryLabel": "जम्मू और कश्मीर",
+                "categorySlug": "jammu-and-kashmir",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UynEs10.0000000.jpg",
+                    "video_duration": "04:34",
+                    "full_slug": "video/jammu-and-kashmir/video-locals-protest-in-gurez-over-ban-on-tent-installations-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UynEs10.m3u8",
+                    "title_hn": "गुरेज में आजीविका पर संकट, टेंट बैन के खिलाफ सड़कों पर उतरे युवा और टूरिज्म कारोबारी",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "गुरेज में आजीविका पर संकट, टेंट बैन के खिलाफ सड़कों पर उतरे युवा और टूरिज्म कारोबारी",
+                    "youtube_id": "1UynEs10",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 7,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a6510d2c4d2aa2a01305d",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T17:29:12.134",
+                "categories": [
+                    10361,
+                    10360
+                ],
+                "categoryLabel": "जम्मू",
+                "categorySlug": "jammu",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UynGw4.0000000.jpg",
+                    "video_duration": "05:48",
+                    "full_slug": "video/jammu/video-a-crowd-of-shiva-devotees-gathered-at-bhagwati-nagar-yatri-niwas-a-kilometer-long-queue-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UynGw4.m3u8",
+                    "title_hn": "भगवती नगर यात्री निवास में उमड़ा शिव भक्तों का सैलाब, एक किलोमीटर लंबी लाइन",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "भगवती नगर यात्री निवास में उमड़ा शिव भक्तों का सैलाब, एक किलोमीटर लंबी लाइन",
+                    "youtube_id": "1UynGw4",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 8,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a64e36607cf6b69006329",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T17:28:27.4",
+                "categories": [
+                    10265,
+                    10210
+                ],
+                "categoryLabel": "मुरादाबाद",
+                "categorySlug": "uttar-pradesh/moradabad",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UynYw1.0000000.jpg",
+                    "video_duration": "00:57",
+                    "full_slug": "video/uttar-pradesh/moradabad/video-wedding-ceremony-inside-the-sealed-mausam-palace-mda-had-sealed-it-a-day-before-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UynYw1.m3u8",
+                    "title_hn": "सील मौसम पैलेस के अंदर शादी का कार्यक्रम, एक दिन पहले किया था एमडीए ने सील",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "सील मौसम पैलेस के अंदर शादी का कार्यक्रम, एक दिन पहले किया था एमडीए ने सील",
+                    "youtube_id": "1UynYw1",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 9,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a5e802ce4d06f910a4676",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T17:01:12.949",
+                "categories": [
+                    10231,
+                    10210
+                ],
+                "categoryLabel": "चंदौली",
+                "categorySlug": "uttar-pradesh/chandauli",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UynbG8.0000000.jpg",
+                    "video_duration": "02:58",
+                    "full_slug": "video/uttar-pradesh/chandauli/video-procession-of-couples-took-place-on-muharram-mourners-mourned-with-embers-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UynbG8.m3u8",
+                    "title_hn": "मोहर्रम पर निकला जोड़ियों का जुलूस, अजादारों ने किया अंगारे मातम, VIDEO",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "मोहर्रम पर निकला जोड़ियों का जुलूस, अजादारों ने किया अंगारे मातम, VIDEO",
+                    "youtube_id": "1UynbG8",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 10,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a5e6806475c95ae0c259f",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T17:00:48.325",
+                "categories": [
+                    10263,
+                    10210
+                ],
+                "categoryLabel": "मेरठ",
+                "categorySlug": "uttar-pradesh/meerut",
+                "tags": null,
+                "dataMap": {
+                    "image": "1Uynpb2.0000000.jpg",
+                    "video_duration": "00:35",
+                    "full_slug": "video/uttar-pradesh/meerut/video-meerut-clock-tower-filled-with-rain-water-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uynpb2.m3u8",
+                    "title_hn": "Meerut: घंटाघर पर भरा बारिश का पानी",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "Meerut: घंटाघर पर भरा बारिश का पानी",
+                    "youtube_id": "1Uynpb2",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 11,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a5d2c8cd1be43f007d8d1",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T16:55:32.313",
+                "categories": [
+                    10222,
+                    10210
+                ],
+                "categoryLabel": "बलरामपुर",
+                "categorySlug": "uttar-pradesh/balrampur",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UynpO7.0000000.jpg",
+                    "video_duration": "00:27",
+                    "full_slug": "video/uttar-pradesh/balrampur/video-video-napal-sama-sa-thharamataranae-ka-para-thasha-ma-fal-raha-tha-chhagara-jal-garafatara-ka-btha-katha-para-sananata-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UynpO7.m3u8",
+                    "title_hn": "VIDEO: नेपाल सीमा से धर्मांतरण का पूरे देश में फैला रहा था छांगुर जाल, गिरफ्तारी के बाद कोठी पर सन्नाटा...",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "VIDEO: नेपाल सीमा से धर्मांतरण का पूरे देश में फैला रहा था छांगुर जाल, गिरफ्तारी के बाद कोठी पर सन्नाटा...",
+                    "youtube_id": "1UynpO7",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 12,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a5b6f21cb1d4ddc04081b",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T16:48:07.507",
+                "categories": [
+                    10252,
+                    10210
+                ],
+                "categoryLabel": "कानपुर",
+                "categorySlug": "uttar-pradesh/kanpur",
+                "tags": null,
+                "dataMap": {
+                    "image": "1Uyn0N8.0000000.jpg",
+                    "video_duration": "00:08",
+                    "full_slug": "video/uttar-pradesh/kanpur/video-kanapara-ma-satatabja-karata-bika-khabha-sa-takaraii-yavaka-ka-maka-para-ha-tharathanaka-mata-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uyn0N8.m3u8",
+                    "title_hn": "कानपुर में स्टंटबाजी करते बाइक खंभे से टकराई, युवक की मौके पर ही दर्दनाक मौत",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "कानपुर में स्टंटबाजी करते बाइक खंभे से टकराई, युवक की मौके पर ही दर्दनाक मौत",
+                    "youtube_id": "1Uyn0N8",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 13,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a58198622b8486806de80",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T16:33:53.733",
+                "categories": [
+                    10257,
+                    10210
+                ],
+                "categoryLabel": "लखनऊ",
+                "categorySlug": "lucknow",
+                "tags": null,
+                "dataMap": {
+                    "image": "1Uyn881.0000000.jpg",
+                    "video_duration": "01:15",
+                    "full_slug": "video/lucknow/video-video-aama-mahatasava-2025-aama-pana-ka-le-maca-lta-palthana-oura-bga-ma-aama-lkara-cal-gae-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uyn881.m3u8",
+                    "title_hn": "VIDEO: आम महोत्सव 2025: आम पाने के लिए मची लूट, पॉलीथीन और बैग में आम लेकर चले गए",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "VIDEO: आम महोत्सव 2025: आम पाने के लिए मची लूट, पॉलीथीन और बैग में आम लेकर चले गए",
+                    "youtube_id": "1Uyn881",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 14,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a53e28e22c46bc6075103",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T16:15:54.13",
+                "categories": [
+                    10361,
+                    10360
+                ],
+                "categoryLabel": "जम्मू",
+                "categorySlug": "jammu",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UylHs0.0000000.jpg",
+                    "video_duration": "03:23",
+                    "full_slug": "video/jammu/video-bhole-baba-will-punish-the-culprits-of-pahalgamwe-have-come-to-ask-this-from-him-amarnath-pilgrims-spoke-fearlessly-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UylHs0.m3u8",
+                    "title_hn": "पहलगाम के दोषियों को सजा देंगे भोले बाबा...हम उनसे यही मांगने आए हैं; अमरनाथ यात्री बेखौफ बोले",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "पहलगाम के दोषियों को सजा देंगे भोले बाबा...हम उनसे यही मांगने आए हैं; अमरनाथ यात्री बेखौफ बोले",
+                    "youtube_id": "1UylHs0",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 15,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a536c55d961af010b1cc2",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T16:13:56.551",
+                "categories": [
+                    10261,
+                    10210
+                ],
+                "categoryLabel": "मथुरा",
+                "categorySlug": "uttar-pradesh/mathura",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UykJV6.0000000.jpg",
+                    "video_duration": "00:27",
+                    "full_slug": "video/uttar-pradesh/mathura/video-controversy-over-scheduled-caste-grooms-wedding-procession-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UykJV6.m3u8",
+                    "title_hn": "VIDEO: अनुसूचित जाति के दूल्हों की घुड़चढ़ी पर विवाद...डीजे बजाने से रोकने पर मारपीट",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "VIDEO: अनुसूचित जाति के दूल्हों की घुड़चढ़ी पर विवाद...डीजे बजाने से रोकने पर मारपीट",
+                    "youtube_id": "1UykJV6",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 16,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a530856e79df276054f24",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T16:12:16.597",
+                "categories": [
+                    10310,
+                    10299
+                ],
+                "categoryLabel": "ऊना",
+                "categorySlug": "himachal-pradesh/una",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UymOt4.0000000.jpg",
+                    "video_duration": "00:34",
+                    "full_slug": "video/himachal-pradesh/una/video-una-residential-house-of-ram-murti-collapsed-due-to-breaking-of-ravine-dam-in-chalola-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UymOt4.m3u8",
+                    "title_hn": "Una: चलोला में खड्ड का बांध टूटने से राम मूर्ति का धराशाई हुआ रिहायशी मकान",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "Una: चलोला में खड्ड का बांध टूटने से राम मूर्ति का धराशाई हुआ रिहायशी मकान",
+                    "youtube_id": "1UymOt4",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 17,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a52fdef20a708400bbd19",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T16:12:05.645",
+                "categories": [
+                    10257,
+                    10210
+                ],
+                "categoryLabel": "लखनऊ",
+                "categorySlug": "lucknow",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UymNt7.0000000.jpg",
+                    "video_duration": "01:00",
+                    "full_slug": "video/lucknow/video-video-rajasathana-saugdhaka-hathasa-pata-ka-naha-ha-raha-yakana-ka-bta-naha-raha-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UymNt7.m3u8",
+                    "title_hn": "VIDEO: राजस्थान सड़क हादसा: पिता को नहीं हो रहा यकीन कि बेटी नहीं रही",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "VIDEO: राजस्थान सड़क हादसा: पिता को नहीं हो रहा यकीन कि बेटी नहीं रही",
+                    "youtube_id": "1UymNt7",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 18,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a5249b6bddb3a670dd9ee",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T16:09:05.049",
+                "categories": [
+                    10355,
+                    10340
+                ],
+                "categoryLabel": "रोहतक",
+                "categorySlug": "haryana/rohtak",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UymIE5.0000000.jpg",
+                    "video_duration": "01:01",
+                    "full_slug": "video/haryana/rohtak/video-cricket-match-in-rohtak-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1UymIE5.m3u8",
+                    "title_hn": "रोहतक: ध्रुव शर्मा ने ठोका शानदार शतक",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "रोहतक: ध्रुव शर्मा ने ठोका शानदार शतक",
+                    "youtube_id": "1UymIE5",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 19,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a4a75991ba24ec1085c8a",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T15:35:41.06",
+                "categories": [
+                    10231,
+                    10210
+                ],
+                "categoryLabel": "चंदौली",
+                "categorySlug": "uttar-pradesh/chandauli",
+                "tags": null,
+                "dataMap": {
+                    "image": "1Uymd610.0000000.jpg",
+                    "video_duration": "01:36",
+                    "full_slug": "video/uttar-pradesh/chandauli/video-illegal-english-liquor-was-being-taken-from-punjab-to-bihar-police-caught-2025-07-06",
+                    "is_premium": null,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/hyperlocal_videos/2025/07/06/1Uymd610.m3u8",
+                    "title_hn": "पंजाब से बिहार ले जा रहे थे 6399 लीटर अवैध अंग्रेजी शराब, पुलिस ने पकड़ा, VIDEO",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "पंजाब से बिहार ले जा रहे थे 6399 लीटर अवैध अंग्रेजी शराब, पुलिस ने पकड़ा, VIDEO",
+                    "youtube_id": "1Uymd610",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        },
+        {
+            "position": 20,
+            "componentId": 108,
+            "contentProvider": 1,
+            "content": {
+                "id": "686a34d3ef20a708400bbd09",
+                "propertyId": null,
+                "type": "video",
+                "dateModified": "2025-07-06T14:39:56.565",
+                "categories": [
+                    10326,
+                    10311
+                ],
+                "categoryLabel": "दमोह",
+                "categorySlug": "madhya-pradesh/damoh",
+                "tags": null,
+                "dataMap": {
+                    "image": "1UykOi1.0000000.jpg",
+                    "video_duration": "54",
+                    "full_slug": "video/madhya-pradesh/damoh/a-tiger-attacked-a-young-man-who-went-to-search-for-a-buffalo-in-the-forest-damoh-news-c-1-1-noi1223-3137043-2025-07-06",
+                    "is_premium": false,
+                    "video_url": "https://vid.amarujala.com/uploaded_videos/4cplus/2025/07/06/1UykOi1.m3u8",
+                    "title_hn": "Damoh News: हरदुआ गांव में युवक पर बाघ ने किया हमला, जंगल में गया था भैंस ढूंढने",
+                    "mute": false,
+                    "is_native_player": true,
+                    "synopsis": "जेहर यादव ने बताया की रविवार सुबह उसकी भैंस चरने के लिए जंगल की ओर गई थी।  वह अपनी भैंसों को ढूंढने के लिए जंगल पहुंचा और एक तालाब किनारे अपना मुंह धो रहा था।  इसी दौरान  एक बाघ ने उस पर हमला कर दिया।",
+                    "youtube_id": "1UykOi1",
+                    "autoplay": false,
+                    "video_type": "auw_video"
+                },
+                "bookmarked": false
+            }
+        }
+    ]
