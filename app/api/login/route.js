@@ -35,3 +35,11 @@ export async function POST(req) {
     return Response.json({ error: "Internal server error" }, { status: 500 });
   }
 }
+
+
+// curl --location 'https://aws.gurdeep.net/api/login' \
+// --header 'Content-Type: application/json' \
+// --data-raw '{
+//   "email": "john1@example.com",
+//   "password": "123456"
+// }'

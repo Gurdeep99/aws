@@ -4,9 +4,9 @@ import bcrypt from "bcrypt";
 
 export async function POST(req) {
   try {
-    const { name, email, password } = await req.json();
+    const { name, email, number, password } = await req.json();
 
-    if (!name || !email || !password) {
+    if (!name || !email || !number || !password) {
       return Response.json({ error: "All fields are required" }, { status: 400 });
     }
 
@@ -22,6 +22,7 @@ export async function POST(req) {
     const newUser = await User.create({
       name,
       email,
+      number,
       password: hashedPassword,
     });
 
@@ -31,3 +32,12 @@ export async function POST(req) {
     return Response.json({ error: "Internal server error" }, { status: 500 });
   }
 }
+
+
+// curl --location 'https://aws.gurdeep.net/api/register' \
+// --header 'Content-Type: application/json' \
+// --data-raw '{
+//   "name": "John Doe",
+//   "email": "john1@example.com",
+//   "password": "123456"
+// }'
